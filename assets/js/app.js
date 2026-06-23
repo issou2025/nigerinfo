@@ -37,13 +37,17 @@ const App = {
     setInterval(async () => {
       try {
         const cacheBust = `?t=${new Date().getTime()}`;
-        const newsResponse = await fetch(`data/news.json${cacheBust}`);
+        const newsResponse = await fetch(`data/news.json${cacheBust}`, { cache: 'no-store' });
         if (!newsResponse.ok) return;
         const newNewsData = await newsResponse.json();
+        if (!Array.isArray(newNewsData)) return;
         
-        // Détecter les changements en comparant la liste complète des identifiants d'articles
-        const newIds = newNewsData.map(n => n.id).join(',');
-        const oldIds = this.newsData.map(n => n.id).join(',');
+        // Détecter les nouveaux articles mais aussi les images ou métadonnées enrichies.
+        const createFingerprint = items => items
+          .map(n => `${n.id}|${n.imageUrl || ''}|${n.publishedAt || ''}|${n.importance || ''}`)
+          .join(',');
+        const newIds = createFingerprint(newNewsData);
+        const oldIds = createFingerprint(this.newsData);
         
         if (newIds !== oldIds) {
           console.log('Mise à jour en direct détectée...');
@@ -77,20 +81,34 @@ const App = {
     const menuToggleBtn = document.getElementById('menu-toggle-btn');
     const headerNav = document.getElementById('header-nav');
     if (menuToggleBtn && headerNav) {
+      const closeMobileMenu = () => {
+        headerNav.classList.remove('mobile-open');
+        document.body.classList.remove('menu-open');
+        menuToggleBtn.innerHTML = '☰';
+        menuToggleBtn.setAttribute('aria-expanded', 'false');
+        menuToggleBtn.setAttribute('aria-label', 'Ouvrir le menu de navigation');
+      };
+
       menuToggleBtn.onclick = () => {
         headerNav.classList.toggle('mobile-open');
         const isOpen = headerNav.classList.contains('mobile-open');
+        document.body.classList.toggle('menu-open', isOpen);
         menuToggleBtn.innerHTML = isOpen ? '✕' : '☰';
-        menuToggleBtn.setAttribute('aria-expanded', isOpen);
+        menuToggleBtn.setAttribute('aria-expanded', String(isOpen));
+        menuToggleBtn.setAttribute('aria-label', isOpen ? 'Fermer le menu de navigation' : 'Ouvrir le menu de navigation');
       };
 
       // Fermer le menu sur clic d'un lien (mobile)
       headerNav.querySelectorAll('a').forEach(link => {
-        link.onclick = () => {
-          headerNav.classList.remove('mobile-open');
-          menuToggleBtn.innerHTML = '☰';
-          menuToggleBtn.setAttribute('aria-expanded', false);
-        };
+        link.addEventListener('click', closeMobileMenu);
+      });
+
+      document.addEventListener('keydown', event => {
+        if (event.key === 'Escape') closeMobileMenu();
+      });
+
+      window.addEventListener('resize', () => {
+        if (window.innerWidth > 1450) closeMobileMenu();
       });
     }
 
@@ -123,11 +141,11 @@ const App = {
       // Pour éviter les problèmes de cache lors des rafraîchissements
       const cacheBust = `?t=${new Date().getTime()}`;
       
-      const newsResponse = await fetch(`data/news.json${cacheBust}`);
+      const newsResponse = await fetch(`data/news.json${cacheBust}`, { cache: 'no-store' });
       if (!newsResponse.ok) throw new Error('Impossible de charger data/news.json');
       this.newsData = await newsResponse.json();
 
-      const sourcesResponse = await fetch(`data/sources.json${cacheBust}`);
+      const sourcesResponse = await fetch(`data/sources.json${cacheBust}`, { cache: 'no-store' });
       if (!sourcesResponse.ok) throw new Error('Impossible de charger data/sources.json');
       this.sourcesData = await sourcesResponse.json();
 

@@ -137,6 +137,31 @@ const Utils = {
   },
 
   /**
+   * Échappe une valeur avant son insertion dans du HTML généré.
+   */
+  escapeHtml(value) {
+    return String(value ?? '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  },
+
+  /**
+   * N'autorise que les URL Web utilisables par les cartes.
+   */
+  safeUrl(value, fallback = '#') {
+    if (!value) return fallback;
+    try {
+      const url = new URL(value, window.location.href);
+      return ['http:', 'https:'].includes(url.protocol) ? url.href : fallback;
+    } catch (e) {
+      return fallback;
+    }
+  },
+
+  /**
    * Groupe un tableau d'objets par une clé.
    */
   groupBy(array, key) {

@@ -2,196 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Niger Info Veille - Flux RSS</title>
-  <link>https://nigerinfoveille.github.io/</link>
+  <link>https://issou2025.github.io/nigerinfo/</link>
   <description>Flux d'actualités et de communiqués officiels sur le Niger.</description>
   <language>fr</language>
-  <lastBuildDate>Wed, 24 Jun 2026 00:23:47 +0100</lastBuildDate>
-  <atom:link href="https://nigerinfoveille.github.io/data/rss.xml" rel="self" type="application/rss+xml" />
+  <lastBuildDate>Wed, 24 Jun 2026 00:31:35 +0100</lastBuildDate>
+  <atom:link href="https://issou2025.github.io/nigerinfo/data/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title><![CDATA[Environmental & Social Assessments]]></title>
-      <link>https://www.afdb.org/en/documents/environmental-social-assessments</link>
-      <guid isPermaLink="false">news-78bef4123b30</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Environmental & Social Assessments. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[Supporting sustainable fisheries and aquaculture]]></title>
+      <link>https://www.fao.org/fishery/en</link>
+      <guid isPermaLink="false">news-6b1b701b518c</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : Supporting sustainable fisheries and aquaculture. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Integrity & Anti-Corruption Reports]]></title>
-      <link>https://www.afdb.org/en/documents/integrity-anti-corruption-reports</link>
-      <guid isPermaLink="false">news-e58e2d4973b1</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Integrity & Anti-Corruption Reports. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[The State of World Fisheries and Aquaculture 2026]]></title>
+      <link>https://www.fao.org/publications/fao-flagship-publications/the-state-of-world-fisheries-and-aquaculture/en</link>
+      <guid isPermaLink="false">news-096211698a3f</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : The State of World Fisheries and Aquaculture 2026. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Projects & Operations documents]]></title>
-      <link>https://www.afdb.org/en/documents/projects-operations</link>
-      <guid isPermaLink="false">news-a5b4348b1ecc</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Projects & Operations documents. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[El Niño is coming. Here is where the risks to agriculture are highest]]></title>
+      <link>https://www.fao.org/newsroom/detail/el-ni%C3%B1o-is-coming.-here-is-where-the-risks-to-agriculture-are-highest/en</link>
+      <guid isPermaLink="false">news-17701274d7a5</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : El Niño is coming. Here is where the risks to agriculture are highest. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Employment of short term staff]]></title>
-      <link>https://www.afdb.org/en/about-us/careers/employment-of-short-term-staff</link>
-      <guid isPermaLink="false">news-91368d335aaf</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Employment of short term staff. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[New FAO-WFP report warns worsening hunger puts 13 hotspots at significant risk]]></title>
+      <link>https://www.fao.org/newsroom/detail/new-fao-wfp-report-warns-worsening-hunger-puts-13-hotspots-at-significant-risk/en</link>
+      <guid isPermaLink="false">news-282e7b9b66d9</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : New FAO-WFP report warns worsening hunger puts 13 hotspots at significant risk. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Under Mission 300, A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa]]></title>
-      <link>https://www.afdb.org/en/news-and-events/press-releases/under-mission-300-new-way-doing-business-connects-over-50-million-people-electricity-across-africa-94529</link>
-      <guid isPermaLink="false">news-02b8aa932350</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Under Mission 300, A New Way of Doing Business Connects Over 50 Million People to Electricity Across Africa. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[QU Dongyu stresses need for critical investments in soil health]]></title>
+      <link>https://www.fao.org/director-general/news/details/director-general-stresses-need-for-critical-investments-in-soil-health/en</link>
+      <guid isPermaLink="false">news-70897d7ae1ef</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : QU Dongyu stresses need for critical investments in soil health. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Evaluation Week 2026: Putting Evidence at the heart of a seamless, inclusive, and resilient Africa]]></title>
-      <link>https://www.afdb.org/en/news-and-events/evaluation-week-2026-putting-evidence-heart-seamless-inclusive-and-resilient-africa-94420</link>
-      <guid isPermaLink="false">news-453b3cd7a3d7</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Evaluation Week 2026: Putting Evidence at the heart of a seamless, inclusive, and resilient Africa. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[FAO response to global food security challenges]]></title>
+      <link>https://www.fao.org/in-focus/en/</link>
+      <guid isPermaLink="false">news-c884f3a560fd</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : FAO response to global food security challenges. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[AM2026: Impact beyond the numbers - African Development Bank’s exceptional delivery over 2025 lays the foundations for greater impact tomorrow]]></title>
-      <link>https://www.afdb.org/en/news-and-events/am2026-impact-beyond-numbers-african-development-banks-exceptional-delivery-over-2025-lays-foundations-greater-impact-tomorrow-94121</link>
-      <guid isPermaLink="false">news-63c740d87066</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : AM2026: Impact beyond the numbers - African Development Bank’s exceptional delivery over 2025 lays the foundations for greater impact tomorrow. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[The State of World Fisheries and Aquaculture 2026]]></title>
+      <link>https://doi.org/10.4060/cd8357en</link>
+      <guid isPermaLink="false">news-37f1ca016c61</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : The State of World Fisheries and Aquaculture 2026. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Angola’s development trajectory with the African Development Bank Group]]></title>
-      <link>https://www.afdb.org/en/news-and-events/multimedia/video/angolas-development-trajectory-african-development-bank-group-94806</link>
-      <guid isPermaLink="false">news-c5c075a585b5</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Angola’s development trajectory with the African Development Bank Group. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[Something fishy about this fish]]></title>
+      <link>https://www.fao.org/newsroom/story/something-fishy-about-this-fish/en</link>
+      <guid isPermaLink="false">news-ab3abfed9401</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : Something fishy about this fish. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Malawi: African Development Fund Approves $8.5M Grant to Restore Cyclone-Ravaged Irrigation Schemes]]></title>
-      <link>https://www.afdb.org/en/news-and-events/press-releases/malawi-african-development-fund-approves-85m-grant-restore-cyclone-ravaged-irrigation-schemes-94786</link>
-      <guid isPermaLink="false">news-0779c555b8ea</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Malawi: African Development Fund Approves $8.5M Grant to Restore Cyclone-Ravaged Irrigation Schemes. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Développement</category>
+      <title><![CDATA[Supporting young agripreneurs in Zambia to transform urban agrifood systems]]></title>
+      <link>https://www.facebook.com/UNFAO/videos/2529308064194997/</link>
+      <guid isPermaLink="false">news-d55e2e7863ef</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : Supporting young agripreneurs in Zambia to transform urban agrifood systems. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
-      <title><![CDATA[Ghana: African Development Bank approves Ghana International Bank as confirming bank under its Trade Finance Transaction Guarantee instrument]]></title>
-      <link>https://www.afdb.org/en/news-and-events/press-releases/ghana-african-development-bank-approves-ghana-international-bank-confirming-bank-under-its-trade-finance-transaction-guarantee-instrument-94675</link>
-      <guid isPermaLink="false">news-cf9c3c15e02b</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:47 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Banque Africaine de Développement Niger. Elle concerne : Ghana: African Development Bank approves Ghana International Bank as confirming bank under its Trade Finance Transaction Guarantee instrument. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.afdb.org">Banque Africaine de Développement Niger</source>
-      <category>Économie</category>
-    </item>
-    <item>
-      <title><![CDATA[Actualité Africaine et Internationale]]></title>
-      <link>https://www.nigerdiaspora.net/2024-01-17-13-22-07/actualite-de-lafrique-et-internationale</link>
-      <guid isPermaLink="false">news-c696e7d77485</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Actualité Africaine et Internationale. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Urbanisme et habitat : le Niger engage une profonde refondation de sa politique foncière et urbaine]]></title>
-      <link>https://nigerdiaspora.net/politique/urbanisme-et-habitat-le-niger-engage-une-profonde-refondation-de-sa-politique-fonciere-et-urbaine</link>
-      <guid isPermaLink="false">news-125ed128bae1</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Urbanisme et habitat : le Niger engage une profonde refondation de sa politique foncière et urbaine. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Foncier au Niger : l’État lance une contre-offensive pour reprendre le contrôle…]]></title>
-      <link>https://www.nigerdiaspora.net/politique/foncier-au-niger-letat-lance-une-contre-offensive-pour-reprendre-le-controle-du-territoire</link>
-      <guid isPermaLink="false">news-d626835488e4</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Foncier au Niger : l’État lance une contre-offensive pour reprendre le contrôle…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Urbanisme et habitat : le Niger engage une profonde refondation de sa politique…]]></title>
-      <link>https://www.nigerdiaspora.net/politique/urbanisme-et-habitat-le-niger-engage-une-profonde-refondation-de-sa-politique-fonciere-et-urbaine</link>
-      <guid isPermaLink="false">news-8d2a016b5d8b</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Urbanisme et habitat : le Niger engage une profonde refondation de sa politique…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Examens du CFEPD 2026 : les épreuves démarrent dans le calme sur toute l’étendu…]]></title>
-      <link>https://www.nigerdiaspora.net/?view=article&id=22653:examens-du-cfepd-2026-les-epreuves-demarrent-dans-le-calme-sur-toute-letendue-du-niger&catid=48</link>
-      <guid isPermaLink="false">news-6e045fb37727</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Examens du CFEPD 2026 : les épreuves démarrent dans le calme sur toute l’étendu…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Revue de presse Labari du 19 juin]]></title>
-      <link>https://www.nigerdiaspora.net/?view=article&id=22652:revue-de-presse-labari-du-19-juin&catid=63</link>
-      <guid isPermaLink="false">news-5650588bc3ec</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Revue de presse Labari du 19 juin. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Détention de Mohamed Bazoum : les appels à la libération continuent de s’exprim…]]></title>
-      <link>https://www.nigerdiaspora.net/politique/detention-de-mohamed-bazoum-les-appels-a-la-liberation-continuent-de-sexprimer-sur-les-reseaux-sociaux</link>
-      <guid isPermaLink="false">news-06a2d4b107ef</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Détention de Mohamed Bazoum : les appels à la libération continuent de s’exprim…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Réouverture de la frontière Niger-Bénin : le général Mohamed Toumba exige des g…]]></title>
-      <link>https://www.nigerdiaspora.net/politique/reouverture-de-la-frontiere-niger-benin-le-general-mohamed-toumba-exige-des-garanties-securitaires</link>
-      <guid isPermaLink="false">news-02bdee3391ae</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Réouverture de la frontière Niger-Bénin : le général Mohamed Toumba exige des g…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
-    </item>
-    <item>
-      <title><![CDATA[Niger : sécurité, économie, frontière avec le Bénin… les faits marquants de la…]]></title>
-      <link>https://www.nigerdiaspora.net/politique/niger-securite-economie-frontiere-avec-le-benin-les-faits-marquants-de-la-revue-de-presse-du-19-juin-2026</link>
-      <guid isPermaLink="false">news-9414cd361af6</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Niger : sécurité, économie, frontière avec le Bénin… les faits marquants de la…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Économie</category>
-    </item>
-    <item>
-      <title><![CDATA[Niger-Bénin : vers une reprise de la coopération ? Une délégation nigérienne en…]]></title>
-      <link>https://www.nigerdiaspora.net/politique/niger-benin-vers-une-reprise-de-la-cooperation-une-delegation-nigerienne-en-discussions-a-cotonou</link>
-      <guid isPermaLink="false">news-2c33cb30ea82</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:46 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis Niger Diaspora. Elle concerne : Niger-Bénin : vers une reprise de la coopération ? Une délégation nigérienne en…. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.nigerdiaspora.net">Niger Diaspora</source>
-      <category>Diaspora</category>
+      <title><![CDATA[Working with partners to end child labour in the coffee supply chain in Uganda]]></title>
+      <link>https://x.com/FAO/status/2065346243199484133?s=20</link>
+      <guid isPermaLink="false">news-842fde097423</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:33 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis FAO Niger. Elle concerne : Working with partners to end child labour in the coffee supply chain in Uganda. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.fao.org">FAO Niger</source>
+      <category>Agriculture</category>
     </item>
     <item>
       <title><![CDATA[Tracking Israel's ceasefire violations]]></title>
       <link>https://www.aljazeera.com/news/2025/11/11/how-many-times-has-israel-violated-the-gaza-ceasefire-here-are-the-numbers</link>
       <guid isPermaLink="false">news-344e2c2311fe</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Tracking Israel's ceasefire violations. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -200,7 +110,7 @@
       <title><![CDATA[Mexico2-0Full timeSouth Africa]]></title>
       <link>https://www.aljazeera.com/sports/liveblog/2026/6/11/live-mexico-vs-south-africa-world-cup-2026</link>
       <guid isPermaLink="false">news-7962f90fe2f4</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Mexico2-0Full timeSouth Africa. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -209,7 +119,7 @@
       <title><![CDATA[South Korea2-1Full timeCzechia]]></title>
       <link>https://www.aljazeera.com/match-center/match?competition=70excpe1synn9kadnbppahdn7&season=873cbl9cd9butm4air0mugxzo&match=9hjlhmip7tn4qgpwr47txpafo</link>
       <guid isPermaLink="false">news-f45c2a3451e2</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : South Korea2-1Full timeCzechia. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -218,7 +128,7 @@
       <title><![CDATA[Canada1-1Full timeBosnia-Herzegovina]]></title>
       <link>https://www.aljazeera.com/match-center/match?competition=70excpe1synn9kadnbppahdn7&season=873cbl9cd9butm4air0mugxzo&match=y1ow9ht5baxn64i01hq9moes</link>
       <guid isPermaLink="false">news-8037e2ef3d96</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Canada1-1Full timeBosnia-Herzegovina. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -227,7 +137,7 @@
       <title><![CDATA[United States4-1Full timeParaguay]]></title>
       <link>https://www.aljazeera.com/sports/liveblog/2026/6/12/usa-vs-paraguay-live-world-cup-2026</link>
       <guid isPermaLink="false">news-4afac3f90e05</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : United States4-1Full timeParaguay. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -236,7 +146,7 @@
       <title><![CDATA[Ivory Coast1-0Full timeEcuador]]></title>
       <link>https://www.aljazeera.com/match-center/match?competition=70excpe1synn9kadnbppahdn7&season=873cbl9cd9butm4air0mugxzo&match=ddupm8zbfndp54r8uru3obf9w</link>
       <guid isPermaLink="false">news-badebec2cba3</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Ivory Coast1-0Full timeEcuador. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -245,7 +155,7 @@
       <title><![CDATA[Saudi Arabia1-1Full timeUruguay]]></title>
       <link>https://www.aljazeera.com/match-center/match?competition=70excpe1synn9kadnbppahdn7&season=873cbl9cd9butm4air0mugxzo&match=6zuh8kndp7mz2j33tqajmos2c</link>
       <guid isPermaLink="false">news-77705e388fcb</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Saudi Arabia1-1Full timeUruguay. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -254,7 +164,7 @@
       <title><![CDATA[IR Iran2-2Full timeNew Zealand]]></title>
       <link>https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026</link>
       <guid isPermaLink="false">news-e07b717c7b56</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : IR Iran2-2Full timeNew Zealand. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -263,7 +173,7 @@
       <title><![CDATA[Uzbekistan1-3Full timeColombia]]></title>
       <link>https://www.aljazeera.com/match-center/match?competition=70excpe1synn9kadnbppahdn7&season=873cbl9cd9butm4air0mugxzo&match=b6gp5y32kvgossb0feqipr8r8</link>
       <guid isPermaLink="false">news-9d3f0776f4db</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Uzbekistan1-3Full timeColombia. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
@@ -272,16 +182,106 @@
       <title><![CDATA[Czechia1-1Full timeSouth Africa]]></title>
       <link>https://www.aljazeera.com/sports/liveblog/2026/6/18/czechia-vs-south-africa-live-world-cup-2026</link>
       <guid isPermaLink="false">news-f595eafab56a</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:31 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Czechia1-1Full timeSouth Africa. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://www.aljazeera.com">Al Jazeera Niger</source>
       <category>Actualités internationales</category>
     </item>
     <item>
+      <title><![CDATA[Internal audit and investigations]]></title>
+      <link>https://www.wfp.org/internal-audit-investigations</link>
+      <guid isPermaLink="false">news-be7facd7300e</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Internal audit and investigations. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Performance management and accountability]]></title>
+      <link>https://www.wfp.org/performance-management-accountability</link>
+      <guid isPermaLink="false">news-08c0d9fa383c</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Performance management and accountability. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Humanitarian support and services]]></title>
+      <link>https://www.wfp.org/humanitarian-support-and-services</link>
+      <guid isPermaLink="false">news-35bc4ee98108</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Humanitarian support and services. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Country capacity strengthening]]></title>
+      <link>https://www.wfp.org/country-capacity-strengthening</link>
+      <guid isPermaLink="false">news-8395ed440243</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Country capacity strengthening. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Democratic Republic of the Congo]]></title>
+      <link>https://www.wfp.org/countries/democratic-republic-congo</link>
+      <guid isPermaLink="false">news-8a6ddd7c554c</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Democratic Republic of the Congo. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Democratic Republic of the Congo]]></title>
+      <link>https://www.wfp.org/emergencies/drc-emergency</link>
+      <guid isPermaLink="false">news-41f527d1ee7d</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Democratic Republic of the Congo. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Apply for the Innovation Challenge]]></title>
+      <link>https://innovation.wfp.org/apply</link>
+      <guid isPermaLink="false">news-1d393616e341</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Apply for the Innovation Challenge. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Non-governmental organizations]]></title>
+      <link>https://www.wfp.org/non-governmental-organizations</link>
+      <guid isPermaLink="false">news-96027b24103b</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Non-governmental organizations. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[UN agencies and international institutions]]></title>
+      <link>https://www.wfp.org/un-agencies-and-international-institutions</link>
+      <guid isPermaLink="false">news-f6db72c99aaa</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : UN agencies and international institutions. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
+      <title><![CDATA[Clusters and multistakeholder partnerships]]></title>
+      <link>https://www.wfp.org/clusters-and-multistakeholder-partnerships</link>
+      <guid isPermaLink="false">news-0f93aad82b83</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:30 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis PAM Niger. Elle concerne : Clusters and multistakeholder partnerships. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://www.wfp.org/countries/niger">PAM Niger</source>
+      <category>Sécurité alimentaire</category>
+    </item>
+    <item>
       <title><![CDATA[AU Condemns Airport Attack in Niger as Security Tightens]]></title>
       <link>https://allafrica.com/view/group/main/main/id/00097165.html</link>
       <guid isPermaLink="false">news-b27365e29414</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : AU Condemns Airport Attack in Niger as Security Tightens. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -290,7 +290,7 @@
       <title><![CDATA[Niger Junta Strips Exiled Opposition Leader of Citizenship]]></title>
       <link>https://allafrica.com/view/group/main/main/id/00097119.html</link>
       <guid isPermaLink="false">news-97de9fc2db13</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger Junta Strips Exiled Opposition Leader of Citizenship. Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -299,7 +299,7 @@
       <title><![CDATA[Niger: The Attack On Niamey Airport(Vanguard)]]></title>
       <link>https://allafrica.com/stories/202606230424.html</link>
       <guid isPermaLink="false">news-786a473564a5</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger: The Attack On Niamey Airport(Vanguard). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -308,7 +308,7 @@
       <title><![CDATA[Africa: All of Africa Today - June 19, 2026(allAfrica)]]></title>
       <link>https://allafrica.com/stories/202606190232.html</link>
       <guid isPermaLink="false">news-5ebd180893d5</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Africa: All of Africa Today - June 19, 2026(allAfrica). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -317,7 +317,7 @@
       <title><![CDATA[Niger: At Least 35 Dead in Attack On Niamey Airport(Agenzia Fides)]]></title>
       <link>https://allafrica.com/stories/202606190401.html</link>
       <guid isPermaLink="false">news-7bc25016cec9</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger: At Least 35 Dead in Attack On Niamey Airport(Agenzia Fides). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -326,7 +326,7 @@
       <title><![CDATA[Niger: Al Qaeda-Linked Militants Claim Deadly Attack On Niger Airport(RFI)]]></title>
       <link>https://allafrica.com/stories/202606190038.html</link>
       <guid isPermaLink="false">news-5409d96c46e1</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger: Al Qaeda-Linked Militants Claim Deadly Attack On Niger Airport(RFI). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -335,7 +335,7 @@
       <title><![CDATA[Africa: AU Condemns Attack On Niger Airport(African Union)]]></title>
       <link>https://allafrica.com/stories/202606190190.html</link>
       <guid isPermaLink="false">news-acc4b39e135a</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Africa: AU Condemns Attack On Niger Airport(African Union). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -344,7 +344,7 @@
       <title><![CDATA[Niger: Gunfire Reported Around Niamey Airport(allAfrica)]]></title>
       <link>https://allafrica.com/stories/202606180339.html</link>
       <guid isPermaLink="false">news-2e0b284ff5af</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger: Gunfire Reported Around Niamey Airport(allAfrica). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -353,7 +353,7 @@
       <title><![CDATA[Niger: The Politics of Jobless Growth Under Tinubu(African Arguments)]]></title>
       <link>https://allafrica.com/stories/202606190032.html</link>
       <guid isPermaLink="false">news-54bba652ac5f</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger: The Politics of Jobless Growth Under Tinubu(African Arguments). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
@@ -362,100 +362,100 @@
       <title><![CDATA[Africa: All of Africa Today - June 16, 2026(allAfrica)]]></title>
       <link>https://allafrica.com/stories/202606160107.html</link>
       <guid isPermaLink="false">news-db8e26dc03a2</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:45 +0100</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
       <description><![CDATA[Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Africa: All of Africa Today - June 16, 2026(allAfrica). Consultez la source originale pour lire le contenu complet.]]></description>
       <source url="https://allafrica.com/niger">AllAfrica Niger</source>
       <category>Actualités internationales</category>
     </item>
     <item>
-      <title><![CDATA[Global Economy Endures War Shock—So Far]]></title>
-      <link>https://www.imf.org/en/blogs/articles/2026/06/15/global-economy-endures-war-shock-so-far</link>
-      <guid isPermaLink="false">news-a1fd62859e2f</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : Global Economy Endures War Shock—So Far. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[Humanitarian Exchange Language (HXL)]]></title>
+      <link>https://hxlstandard.org/</link>
+      <guid isPermaLink="false">news-5c34b8502bac</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : Humanitarian Exchange Language (HXL). Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[How the IMF Supports the Global Economy]]></title>
-      <link>https://www.imf.org/en/about/how-the-imf-supports-the-global-economy</link>
-      <guid isPermaLink="false">news-15fe8b482513</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : How the IMF Supports the Global Economy. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[Inter-Agency Standing Committee]]></title>
+      <link>https://interagencystandingcommittee.org/</link>
+      <guid isPermaLink="false">news-18e6c8dfcfd8</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : Inter-Agency Standing Committee. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[Governance and Anti-Corruption]]></title>
-      <link>https://www.imf.org/en/topics/governance-and-anti-corruption</link>
-      <guid isPermaLink="false">news-3d69feb0b6a1</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : Governance and Anti-Corruption. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[Ebola Bundibugyo Virus Disease Crisis]]></title>
+      <link>https://data.humdata.org/event/crisis-ebola-bundibugyo-virus-disease</link>
+      <guid isPermaLink="false">news-abae6d74af27</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : Ebola Bundibugyo Virus Disease Crisis. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[Global Financial Stability Report]]></title>
-      <link>https://www.imf.org/en/publications/gfsr</link>
-      <guid isPermaLink="false">news-7189f4a73f15</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : Global Financial Stability Report. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[occupied Palestinian territory-Israel Hostilities]]></title>
+      <link>https://data.humdata.org/event/opt-israel-hostilities</link>
+      <guid isPermaLink="false">news-d1bb2565687a</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : occupied Palestinian territory-Israel Hostilities. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[IMF Resident Representative Offices]]></title>
-      <link>https://www.imf.org/en/countries/resrep</link>
-      <guid isPermaLink="false">news-b1aa7a8ad0ab</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : IMF Resident Representative Offices. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[Common Operational Datasets (CODs)]]></title>
+      <link>https://data.humdata.org/cod</link>
+      <guid isPermaLink="false">news-1083c36da8e6</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : Common Operational Datasets (CODs). Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[IMF Members' Quotas and Voting Power, and Board of Governors]]></title>
-      <link>https://www.imf.org/en/about/executive-board/members-quotas</link>
-      <guid isPermaLink="false">news-d6eb1bb9e857</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : IMF Members' Quotas and Voting Power, and Board of Governors. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[Action Against Hunger ACF - Regional Office for West and Central Africa ROWCA]]></title>
+      <link>https://data.humdata.org/organization/acf-west-africa</link>
+      <guid isPermaLink="false">news-c3dbd3833c6d</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : Action Against Hunger ACF - Regional Office for West and Central Africa ROWCA. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[IMF Regional Office for Asia and the Pacific]]></title>
-      <link>https://www.imf.org/en/countries/resrep/oap-home</link>
-      <guid isPermaLink="false">news-72374c79fa9f</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : IMF Regional Office for Asia and the Pacific. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[African Center of Meteorological Applications for Development]]></title>
+      <link>https://data.humdata.org/organization/acmad</link>
+      <guid isPermaLink="false">news-407e86931210</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : African Center of Meteorological Applications for Development. Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[IMF Capacity Development Office in Thailand (CDOT)]]></title>
-      <link>https://www.imf.org/en/Countries/ResRep/CDOT-Region</link>
-      <guid isPermaLink="false">news-fa7d93051c8b</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : IMF Capacity Development Office in Thailand (CDOT). Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[African Development Bank Group (inactive)]]></title>
+      <link>https://data.humdata.org/organization/afdb</link>
+      <guid isPermaLink="false">news-3211dbdda1e2</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : African Development Bank Group (inactive). Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[IMF Office in the Pacific Islands]]></title>
-      <link>https://www.imf.org/en/countries/resrep/pis-region</link>
-      <guid isPermaLink="false">news-7b0de5ea95fd</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : IMF Office in the Pacific Islands. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[Armed Conflict Location & Event Data Project (ACLED)]]></title>
+      <link>https://data.humdata.org/organization/acled</link>
+      <guid isPermaLink="false">news-01536b809f78</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : Armed Conflict Location & Event Data Project (ACLED). Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
     <item>
-      <title><![CDATA[IMF Europe Office in Paris and Brussels]]></title>
-      <link>https://www.imf.org/en/countries/resrep/eur</link>
-      <guid isPermaLink="false">news-1587faac092f</guid>
-      <pubDate>Wed, 24 Jun 2026 00:23:44 +0100</pubDate>
-      <description><![CDATA[Cette information a été repérée depuis FMI Niger. Elle concerne : IMF Europe Office in Paris and Brussels. Consultez la source originale pour lire le contenu complet.]]></description>
-      <source url="https://www.imf.org">FMI Niger</source>
-      <category>Économie</category>
+      <title><![CDATA[CLEAR Global (previously Translators without Borders)]]></title>
+      <link>https://data.humdata.org/organization/clear</link>
+      <guid isPermaLink="false">news-cd01f86018f0</guid>
+      <pubDate>Wed, 24 Jun 2026 00:31:29 +0100</pubDate>
+      <description><![CDATA[Cette information a été repérée depuis Humanitarian Data Exchange Niger. Elle concerne : CLEAR Global (previously Translators without Borders). Consultez la source originale pour lire le contenu complet.]]></description>
+      <source url="https://data.humdata.org/group/ner">Humanitarian Data Exchange Niger</source>
+      <category>Données humanitaires</category>
     </item>
 </channel>
 </rss>

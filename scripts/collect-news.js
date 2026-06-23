@@ -25,6 +25,7 @@ const MAX_ITEMS_PER_SOURCE = 10;
 const MAX_TOTAL_ITEMS = 1000;
 const MIN_TITLE_LENGTH = 30;
 const TIMEOUT_MS = 10000; // 10 secondes
+const IMAGE_ENRICH_LIMIT_PER_SOURCE = 6;
 
 // Chemins des fichiers par rapport au script
 const PATH_SOURCES = path.join(__dirname, '../data/sources.json');
@@ -84,6 +85,69 @@ function fetchHtml(urlStr, depth = 0) {
       reject(new Error('Timeout de requête atteint'));
     });
   });
+}
+
+function normalizeImageUrl(rawUrl, baseUrl) {
+  if (!rawUrl || typeof rawUrl !== 'string') return '';
+
+  const candidate = rawUrl
+    .split(',')
+    .pop()
+    .trim()
+    .split(/\s+/)[0];
+
+  if (!candidate || candidate.startsWith('data:') || candidate.startsWith('blob:')) return '';
+
+  try {
+    const absoluteUrl = new URL(candidate, baseUrl).toString();
+    const lower = absoluteUrl.toLowerCase();
+    const rejectedTokens = [
+      'logo', 'icon', 'favicon', 'avatar', 'sprite', 'pixel', 'tracking',
+      'facebook', 'twitter', 'instagram', 'youtube', 'whatsapp'
+    ];
+    if (rejectedTokens.some(token => lower.includes(token)) || lower.endsWith('.svg')) return '';
+    return absoluteUrl;
+  } catch (e) {
+    return '';
+  }
+}
+
+function imageFromElement($, img, baseUrl) {
+  if (!img || !img.length) return '';
+  const attributes = [
+    'data-src', 'data-original', 'data-lazy-src', 'data-image',
+    'data-srcset', 'srcset', 'src'
+  ];
+
+  for (const attribute of attributes) {
+    const imageUrl = normalizeImageUrl(img.attr(attribute), baseUrl);
+    if (imageUrl) return imageUrl;
+  }
+  return '';
+}
+
+function extractPageImage(html, pageUrl) {
+  try {
+    const $ = cheerio.load(html);
+    const metaSelectors = [
+      'meta[property="og:image:secure_url"]',
+      'meta[property="og:image"]',
+      'meta[name="twitter:image"]',
+      'meta[name="twitter:image:src"]',
+      'link[rel="image_src"]'
+    ];
+
+    for (const selector of metaSelectors) {
+      const element = $(selector).first();
+      const imageUrl = normalizeImageUrl(element.attr('content') || element.attr('href'), pageUrl);
+      if (imageUrl) return imageUrl;
+    }
+
+    const articleImage = $('article img, main img, .article img, .post img').first();
+    return imageFromElement($, articleImage, pageUrl);
+  } catch (e) {
+    return '';
+  }
 }
 
 /**
@@ -202,6 +266,7 @@ async function collect() {
     }
   }
   console.log(`${oldNews.length} articles actuellement en cache local.`);
+  const oldNewsById = new Map(oldNews.map(item => [item.id, item]));
 
   const collectedNews = [];
   let successfulSourcesCount = 0;
@@ -247,28 +312,17 @@ async function collect() {
           return;
         }
 
-        // Tenter d'extraire une image dans le lien ou le conteneur parent
+        // Tenter d'extraire l'image depuis le lien ou le conteneur de carte.
         let imageUrl = '';
         const imgEl = $(el).find('img').first();
         if (imgEl.length > 0) {
-          imageUrl = imgEl.attr('src') || imgEl.attr('data-src') || imgEl.attr('data-lazy-src') || '';
-        } else {
-          const parentImg = $(el).parent().find('img').first();
-          if (parentImg.length > 0) {
-            imageUrl = parentImg.attr('src') || parentImg.attr('data-src') || '';
-          }
+          imageUrl = imageFromElement($, imgEl, source.url);
         }
 
-        if (imageUrl) {
-          try {
-            imageUrl = new URL(imageUrl, source.url).toString();
-            // Ignorer les icônes de réseaux sociaux ou petits logos évidents
-            const imgLower = imageUrl.toLowerCase();
-            if (imgLower.includes('logo') || imgLower.includes('icon') || imgLower.endsWith('.svg') || imgLower.includes('facebook') || imgLower.includes('twitter')) {
-              imageUrl = '';
-            }
-          } catch (e) {
-            imageUrl = '';
+        if (!imageUrl) {
+          const card = $(el).closest('article, li, .card, .post, .news-item, .item, .entry');
+          if (card.length > 0) {
+            imageUrl = imageFromElement($, card.find('img').first(), source.url);
           }
         }
 
@@ -290,6 +344,22 @@ async function collect() {
       }
 
       const selectedItems = uniqueSourceItems.slice(0, MAX_ITEMS_PER_SOURCE);
+
+      // Les pages d'accueil utilisent souvent des images en arrière-plan ou ne
+      // publient l'image que dans les métadonnées Open Graph de l'article.
+      const itemsToEnrich = selectedItems
+        .filter(item => !item.imageUrl)
+        .slice(0, IMAGE_ENRICH_LIMIT_PER_SOURCE);
+
+      await Promise.all(itemsToEnrich.map(async item => {
+        try {
+          const articleHtml = await fetchHtml(item.url);
+          item.imageUrl = extractPageImage(articleHtml, item.url);
+        } catch (e) {
+          // Une image absente ne doit jamais faire échouer la collecte.
+        }
+      }));
+
       console.log(`[Source ${index}/${sources.length}] -> ${selectedItems.length} liens trouvés pour ${source.name}`);
 
       selectedItems.forEach(item => {
@@ -298,6 +368,7 @@ async function collect() {
         const category = estimateCategory(item.title, source.category);
         const importance = estimateImportance(item.title, source.name, category);
         const summary = `Cette information a été repérée depuis ${source.name}. Elle concerne : ${item.title}. Consultez la source originale pour lire le contenu complet.`;
+        const previousItem = oldNewsById.get(id);
 
         collectedNews.push({
           id: id,
@@ -307,9 +378,9 @@ async function collect() {
           sourceUrl: item.url,
           sourceHome: source.url,
           category: category,
-          publishedAt: nowStr,
+          publishedAt: previousItem?.publishedAt || nowStr,
           collectedAt: nowStr,
-          imageUrl: item.imageUrl || "",
+          imageUrl: item.imageUrl || previousItem?.imageUrl || "",
           tags: ["Niger", region, category],
           region: region,
           importance: importance,

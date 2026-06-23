@@ -12,7 +12,7 @@ import json
 import time
 import hashlib
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import warnings
 
@@ -36,6 +36,7 @@ MAX_TOTAL_ITEMS = 1000
 MIN_TITLE_LENGTH = 30
 TIMEOUT_SECONDS = 10
 CONCURRENCY_LIMIT = 5
+IMAGE_ENRICH_LIMIT_PER_SOURCE = 6
 
 # Répertoire de travail
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -53,11 +54,66 @@ def fetch_html(url):
     # Premier essai avec vérification SSL stricte
     try:
         response = requests.get(url, headers=headers, timeout=TIMEOUT_SECONDS, allow_redirects=True)
+        response.raise_for_status()
         return response.text
     except requests.exceptions.SSLError:
         # Deuxième essai sans vérification SSL (très utile pour les sites administratifs du Niger)
         response = requests.get(url, headers=headers, timeout=TIMEOUT_SECONDS, allow_redirects=True, verify=False)
+        response.raise_for_status()
         return response.text
+
+def normalize_image_url(raw_url, base_url):
+    """Normalise une URL d'image et écarte logos, icônes et pixels de suivi."""
+    if not raw_url or not isinstance(raw_url, str):
+        return ""
+
+    candidate = raw_url.split(',')[-1].strip().split()[0]
+    if not candidate or candidate.startswith(('data:', 'blob:')):
+        return ""
+
+    absolute_url = urllib.parse.urljoin(base_url, candidate)
+    lower_url = absolute_url.lower()
+    rejected_tokens = [
+        'logo', 'icon', 'favicon', 'avatar', 'sprite', 'pixel', 'tracking',
+        'facebook', 'twitter', 'instagram', 'youtube', 'whatsapp'
+    ]
+    if any(token in lower_url for token in rejected_tokens) or lower_url.endswith('.svg'):
+        return ""
+    return absolute_url
+
+def image_from_tag(img_tag, base_url):
+    """Extrait la meilleure URL disponible d'une balise image classique ou lazy-loadée."""
+    if not img_tag:
+        return ""
+    for attribute in [
+        'data-src', 'data-original', 'data-lazy-src', 'data-image',
+        'data-srcset', 'srcset', 'src'
+    ]:
+        image_url = normalize_image_url(img_tag.get(attribute), base_url)
+        if image_url:
+            return image_url
+    return ""
+
+def extract_page_image(html, page_url):
+    """Extrait l'image éditoriale depuis Open Graph, Twitter Cards ou le contenu."""
+    soup = BeautifulSoup(html, 'html.parser')
+    meta_candidates = [
+        ('meta', {'property': 'og:image:secure_url'}, 'content'),
+        ('meta', {'property': 'og:image'}, 'content'),
+        ('meta', {'name': 'twitter:image'}, 'content'),
+        ('meta', {'name': 'twitter:image:src'}, 'content'),
+        ('link', {'rel': 'image_src'}, 'href')
+    ]
+
+    for tag_name, attributes, value_attribute in meta_candidates:
+        element = soup.find(tag_name, attrs=attributes)
+        if element:
+            image_url = normalize_image_url(element.get(value_attribute), page_url)
+            if image_url:
+                return image_url
+
+    content_image = soup.select_one('article img, main img, .article img, .post img')
+    return image_from_tag(content_image, page_url)
 
 def generate_news_id(source_name, title, url):
     """Génère un ID MD5 unique basé sur la source, le titre et l'URL."""
@@ -110,7 +166,7 @@ def estimate_importance(title, source_name, category):
         return 3
     return 2
 
-def scrape_source(source, index, total_sources):
+def scrape_source(source, index, total_sources, old_news_by_id):
     """Analyse une source unique pour extraire les actualités et les images."""
     if source.get('status') != 'active':
         print(f"[Source {index}/{total_sources}] Ignorée : {source['name']} (inactive)")
@@ -152,24 +208,14 @@ def scrape_source(source, index, total_sources):
             # Tenter d'extraire une image associée
             image_url = ""
             img_tag = link.find('img')
-            if img_tag:
-                image_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src') or ""
-            else:
-                # Chercher dans le parent proche
-                parent = link.parent
-                if parent:
-                    parent_img = parent.find('img')
-                    if parent_img:
-                        image_url = parent_img.get('src') or parent_img.get('data-src') or ""
-                        
-            if image_url:
-                try:
-                    image_url = urllib.parse.urljoin(source['url'], image_url)
-                    img_lower = image_url.lower()
-                    if any(x in img_lower for x in ['logo', 'icon', '.svg', 'facebook', 'twitter', 'avatar']):
-                        image_url = ""
-                except:
-                    image_url = ""
+            image_url = image_from_tag(img_tag, source['url'])
+
+            if not image_url:
+                card = link.find_parent(['article', 'li'])
+                if not card:
+                    card = link.find_parent(class_=['card', 'post', 'news-item', 'item', 'entry'])
+                if card:
+                    image_url = image_from_tag(card.find('img'), source['url'])
                     
             source_items.append({
                 'title': text,
@@ -187,15 +233,25 @@ def scrape_source(source, index, total_sources):
                 
         # Limiter par source
         selected_items = unique_items[:MAX_ITEMS_PER_SOURCE]
+
+        for item in [entry for entry in selected_items if not entry['image_url']][:IMAGE_ENRICH_LIMIT_PER_SOURCE]:
+            try:
+                article_html = fetch_html(item['url'])
+                item['image_url'] = extract_page_image(article_html, item['url'])
+            except Exception:
+                # Une image indisponible ne doit pas bloquer l'article.
+                pass
+
         print(f"[Source {index}/{total_sources}] -> {len(selected_items)} liens trouvés pour {source['name']}")
         
-        now_str = datetime.now().isoformat() + "+01:00"
+        now_str = datetime.now(timezone(timedelta(hours=1))).isoformat()
         for item in selected_items:
             news_id = generate_news_id(source['name'], item['title'], item['url'])
             region = detect_region(item['title'])
             category = estimate_category(item['title'], source['category'])
             importance = estimate_importance(item['title'], source['name'], category)
             summary = f"Cette information a été repérée depuis {source['name']}. Elle concerne : {item['title']}. Consultez la source originale pour lire le contenu complet."
+            previous_item = old_news_by_id.get(news_id, {})
             
             collected_items.append({
                 "id": news_id,
@@ -205,9 +261,9 @@ def scrape_source(source, index, total_sources):
                 "sourceUrl": item['url'],
                 "sourceHome": source['url'],
                 "category": category,
-                "publishedAt": now_str,
+                "publishedAt": previous_item.get('publishedAt', now_str),
                 "collectedAt": now_str,
-                "imageUrl": item['image_url'],
+                "imageUrl": item['image_url'] or previous_item.get('imageUrl', ''),
                 "tags": ["Niger", region, category],
                 "region": region,
                 "importance": importance,
@@ -250,11 +306,11 @@ def generate_rss_feed(news_items):
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Niger Info Veille - Flux RSS</title>
-  <link>https://nigerinfoveille.github.io/</link>
+  <link>https://issou2025.github.io/nigerinfo/</link>
   <description>Flux d'actualités et de communiqués officiels sur le Niger.</description>
   <language>fr</language>
   <lastBuildDate>{datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0100')}</lastBuildDate>
-  <atom:link href="https://nigerinfoveille.github.io/data/rss.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://issou2025.github.io/nigerinfo/data/rss.xml" rel="self" type="application/rss+xml" />
 {chr(10).join(items_xml)}
 </channel>
 </rss>"""
@@ -283,13 +339,17 @@ def collect():
         except Exception:
             old_news = []
     print(f"{len(old_news)} articles actuellement en cache local.")
+    old_news_by_id = {item['id']: item for item in old_news}
     
     collected_news = []
     total_sources = len(sources)
     
     # Exécuter les requêtes en parallèle (ThreadPoolExecutor) pour un scan très rapide
     with ThreadPoolExecutor(max_workers=CONCURRENCY_LIMIT) as executor:
-        futures = {executor.submit(scrape_source, src, idx + 1, total_sources): src for idx, src in enumerate(sources)}
+        futures = {
+            executor.submit(scrape_source, src, idx + 1, total_sources, old_news_by_id): src
+            for idx, src in enumerate(sources)
+        }
         for future in as_completed(futures):
             results = future.result()
             if results:

@@ -14,8 +14,15 @@ const Render = {
     const dateFormatted = Utils.formatDate(newsItem.publishedAt);
     const collectedAgoText = Utils.timeAgo(newsItem.collectedAt);
     
-    // Image de l'actualité ou placeholder
-    const imageSrc = newsItem.imageUrl ? newsItem.imageUrl : 'assets/img/placeholder-news.svg';
+    const placeholder = 'assets/img/placeholder-news.svg';
+    const imageSrc = Utils.safeUrl(newsItem.imageUrl, placeholder);
+    const sourceUrl = Utils.safeUrl(newsItem.sourceUrl, '#');
+    const id = Utils.escapeHtml(newsItem.id);
+    const title = Utils.escapeHtml(newsItem.title || 'Information sans titre');
+    const summary = Utils.escapeHtml(Utils.truncateText(newsItem.summary, 140));
+    const category = Utils.escapeHtml(newsItem.category || 'Actualités');
+    const sourceName = Utils.escapeHtml(newsItem.sourceName || 'Source');
+    const region = Utils.escapeHtml(newsItem.region || '');
     
     // Importance styling (bords colorés ou icônes selon importance)
     let importanceBadge = '';
@@ -26,12 +33,12 @@ const Render = {
     }
 
     return `
-      <article class="news-card ${newsItem.importance === 5 ? 'news-card-major' : ''}" data-id="${newsItem.id}">
+      <article class="news-card ${newsItem.importance === 5 ? 'news-card-major' : ''}" data-id="${id}">
         <div class="news-card-image-container">
-          <img src="${imageSrc}" alt="${newsItem.title}" class="news-card-image" onload="this.classList.add('loaded')" onerror="this.onerror=null; this.src='assets/img/placeholder-news.svg'; this.classList.add('loaded');" loading="lazy">
+          <img src="${Utils.escapeHtml(imageSrc)}" alt="${title}" class="news-card-image" onload="this.classList.add('loaded')" onerror="this.onerror=null; this.src='${placeholder}'; this.classList.add('loaded', 'is-placeholder');" loading="lazy" decoding="async" referrerpolicy="no-referrer">
           <div class="news-card-badges">
-            <span class="badge ${catClass}">${newsItem.category}</span>
-            <span class="badge badge-source">${newsItem.sourceName}</span>
+            <span class="badge ${catClass}">${category}</span>
+            <span class="badge badge-source">${sourceName}</span>
           </div>
           ${isNew ? '<span class="badge badge-new">Nouveau</span>' : ''}
           ${importanceBadge}
@@ -40,31 +47,31 @@ const Render = {
         <div class="news-card-content">
           <div class="news-card-meta">
             <span class="news-card-time" title="Publié le ${dateFormatted}">🕒 ${timeAgoText}</span>
-            ${newsItem.region ? `<span class="news-card-region">📍 ${newsItem.region}</span>` : ''}
+            ${newsItem.region ? `<span class="news-card-region">📍 ${region}</span>` : ''}
           </div>
           
-          <h3 class="news-card-title">${newsItem.title}</h3>
-          <p class="news-card-summary">${Utils.truncateText(newsItem.summary, 140)}</p>
+          <h3 class="news-card-title">${title}</h3>
+          <p class="news-card-summary">${summary}</p>
           
           <div class="news-card-collect-date">
             <span>Collecté ${collectedAgoText}</span>
           </div>
           
           <div class="news-card-actions">
-            <a href="${newsItem.sourceUrl}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-visit" id="btn-read-${newsItem.id}">
+            <a href="${Utils.escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm btn-visit" id="btn-read-${id}">
               Lire la source ↗
             </a>
-            <button class="btn btn-outline btn-sm btn-speak" data-id="${newsItem.id}" title="Écouter le résumé de l'information">
+            <button class="btn btn-outline btn-sm btn-speak" data-id="${id}" title="Écouter le résumé de l'information">
               🔊 Écouter
             </button>
             <div class="news-card-utils">
-              <button class="btn-util btn-bookmark ${isSaved ? 'active' : ''}" data-id="${newsItem.id}" aria-label="Ajouter aux favoris" title="Enregistrer en favori">
+              <button class="btn-util btn-bookmark ${isSaved ? 'active' : ''}" data-id="${id}" aria-label="Ajouter aux favoris" title="Enregistrer en favori">
                 ${isSaved ? '❤️' : '🤍'}
               </button>
-              <button class="btn-util btn-share-wa" data-id="${newsItem.id}" aria-label="Partager sur WhatsApp" title="Partager sur WhatsApp">
+              <button class="btn-util btn-share-wa" data-id="${id}" aria-label="Partager sur WhatsApp" title="Partager sur WhatsApp">
                 💬
               </button>
-              <button class="btn-util btn-copy-link" data-id="${newsItem.id}" data-url="${newsItem.sourceUrl}" aria-label="Copier le lien" title="Copier le lien">
+              <button class="btn-util btn-copy-link" data-id="${id}" data-url="${Utils.escapeHtml(sourceUrl)}" aria-label="Copier le lien" title="Copier le lien">
                 🔗
               </button>
             </div>
@@ -117,7 +124,7 @@ const Render = {
         btn.innerHTML = isAdded ? '❤️' : '🤍';
         
         // Si l'utilisateur est en train de filtrer par favoris uniquement, rafraîchir l'affichage
-        if (typeof App !== 'undefined' && App.filters && App.filters.onlyBookmarked) {
+        if (typeof Search !== 'undefined' && Search.filters.onlyBookmarked) {
           App.refreshUI();
         }
       };
@@ -358,8 +365,8 @@ const Render = {
       alertBanner.innerHTML = `
         <div class="alert-banner-content container">
           <span class="alert-banner-badge">🚨 ALERTE</span>
-          <span class="alert-banner-title">${majorNews.title}</span>
-          <a href="${majorNews.sourceUrl}" target="_blank" rel="noopener" class="alert-banner-link" id="btn-read-alert">Lire l'article original ↗</a>
+          <span class="alert-banner-title">${Utils.escapeHtml(majorNews.title)}</span>
+          <a href="${Utils.escapeHtml(Utils.safeUrl(majorNews.sourceUrl, '#'))}" target="_blank" rel="noopener noreferrer" class="alert-banner-link" id="btn-read-alert">Lire l'article original ↗</a>
         </div>
       `;
       alertBanner.classList.add('show');

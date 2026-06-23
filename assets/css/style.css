@@ -27,6 +27,10 @@ body {
   overflow-x: hidden;
 }
 
+body.menu-open {
+  overflow: hidden;
+}
+
 /* Typographies additionnelles pour des éléments de titre haut de gamme */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Outfit', 'Inter', sans-serif;
@@ -108,6 +112,7 @@ li {
 .container {
   width: 100%;
   max-width: 1280px;
+  min-width: 0;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1.5rem;
@@ -202,6 +207,12 @@ li {
   align-items: center;
   height: 50px;
   width: 240px;
+  flex-shrink: 0;
+}
+
+.site-logo {
+  width: 100%;
+  height: auto;
 }
 
 .header-nav {
@@ -298,6 +309,7 @@ li {
   font-weight: 800;
   margin-bottom: 1rem;
   letter-spacing: -0.02em;
+  overflow-wrap: anywhere;
 }
 
 .hero-description {
@@ -325,6 +337,10 @@ li {
   transition: border-color 0.2s, box-shadow 0.2s;
 }
 
+.search-input-wrapper > * {
+  min-width: 0;
+}
+
 .search-input-wrapper:focus-within {
   border-color: var(--primary);
   box-shadow: 0 0 0 4px rgba(15, 118, 110, 0.15);
@@ -338,6 +354,8 @@ li {
 
 .hero-search-input {
   flex: 1;
+  width: 100%;
+  min-width: 0;
   border: none;
   background: transparent;
   outline: none;
@@ -567,6 +585,11 @@ li {
   padding: 2.5rem 0;
 }
 
+.news-layout > *,
+.filters-controls > * {
+  min-width: 0;
+}
+
 .news-section-header {
   margin-bottom: 1.5rem;
   display: flex;
@@ -624,7 +647,8 @@ li {
 
 .news-card-image-container {
   position: relative;
-  height: 180px;
+  aspect-ratio: 16 / 9;
+  min-height: 170px;
   background-color: var(--border);
   overflow: hidden;
 }
@@ -639,6 +663,12 @@ li {
 
 .news-card-image.loaded {
   opacity: 1;
+}
+
+.news-card-image.is-placeholder {
+  object-fit: contain;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, var(--primary-light), var(--surface));
 }
 
 .news-card:hover .news-card-image {
@@ -775,6 +805,11 @@ li {
   align-items: center;
   justify-content: space-between;
   gap: 0.5rem;
+}
+
+.btn-visit,
+.btn-speak {
+  white-space: nowrap;
 }
 
 .news-card-utils {
@@ -1454,6 +1489,53 @@ li {
 
 /* 19. RESPONSIVE DESIGN (MEDIA QUERIES) */
 
+/* Navigation compacte sur petits ordinateurs et tablettes */
+@media (max-width: 1450px) {
+  .menu-toggle-btn {
+    display: flex;
+  }
+
+  .header-nav {
+    display: none;
+    position: fixed;
+    inset: 70px 0 0 0;
+    width: 100%;
+    height: calc(100dvh - 70px);
+    background-color: rgba(255, 255, 255, 0.97);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-top: 1px solid var(--border);
+    flex-direction: column;
+    padding: 1.5rem;
+    box-shadow: var(--shadow-lg);
+    align-items: stretch;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  [data-theme="dark"] .header-nav {
+    background-color: rgba(15, 23, 42, 0.98);
+  }
+
+  .header-nav.mobile-open {
+    display: flex;
+    animation: slideDown 0.25s ease;
+  }
+
+  .nav-menu {
+    width: min(100%, 680px);
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
+  .nav-menu-link {
+    display: block;
+    padding: 0.8rem 1rem;
+  }
+}
+
 /* Tablettes (max-width: 992px) */
 @media (max-width: 992px) {
   .news-layout {
@@ -1482,44 +1564,12 @@ li {
     width: 170px;
   }
 
-  .menu-toggle-btn {
-    display: flex;
-  }
-
-  /* Menu Burger Mobile avec floutage moderne */
+  /* Ajustement du menu plein écran pour mobile */
   .header-nav {
-    display: none;
-    position: fixed;
     top: 60px;
-    left: 0;
-    width: 100%;
-    height: calc(100vh - 60px);
-    background-color: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border-bottom: 1px solid var(--border);
-    flex-direction: column;
-    padding: 2rem 1.5rem;
-    box-shadow: var(--shadow-lg);
-    gap: 1.5rem;
-    align-items: stretch;
-    overflow-y: auto;
+    height: calc(100dvh - 60px);
+    padding: 1rem;
     padding-bottom: env(safe-area-inset-bottom, 2rem);
-  }
-
-  [data-theme="dark"] .header-nav {
-    background-color: rgba(15, 23, 42, 0.97);
-  }
-
-  .header-nav.mobile-open {
-    display: flex;
-    animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-
-  .nav-menu {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 0.75rem;
   }
 
   .nav-menu-link {
@@ -1571,7 +1621,7 @@ li {
 
   /* Filtres horizontaux ou empilés */
   .filters-section {
-    top: 60px;
+    position: static;
     padding: 0.75rem 0;
   }
 
@@ -1635,7 +1685,7 @@ li {
   }
 
   .news-grid {
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
     padding: 0 1rem;
   }
@@ -1645,7 +1695,7 @@ li {
   }
 
   .news-card-image-container {
-    height: 160px;
+    min-height: 0;
   }
 
   .news-card-title {
@@ -1669,13 +1719,18 @@ li {
 
   .btn-visit {
     width: 100%;
-    order: 2; /* Met le bouton visiter en bas sur mobile */
+    order: 1;
+  }
+
+  .btn-speak {
+    width: 100%;
+    order: 2;
   }
 
   .news-card-utils {
     width: 100%;
     justify-content: space-between;
-    order: 1;
+    order: 3;
   }
 
   .btn-util {
@@ -1689,7 +1744,7 @@ li {
   }
 
   .sources-grid {
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.25rem;
     padding: 0 1rem;
   }
@@ -1741,5 +1796,122 @@ li {
     flex-direction: column;
     text-align: center;
     gap: 0.75rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding-left: 0.875rem;
+    padding-right: 0.875rem;
+  }
+
+  .logo-link {
+    width: 145px;
+  }
+
+  .hero-section {
+    padding-top: 2.25rem;
+  }
+
+  .hero-title {
+    font-size: clamp(1.65rem, 9vw, 1.95rem);
+  }
+
+  .hero-subtitle {
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+  }
+
+  .alert-banner-content {
+    align-items: flex-start;
+  }
+
+  .alert-banner-title {
+    min-width: 0;
+    width: calc(100% - 100px);
+    white-space: normal;
+    line-height: 1.35;
+  }
+
+  .alert-banner-link {
+    width: 100%;
+  }
+
+  .hero-search-container,
+  .news-section-header,
+  .news-grid,
+  .sources-grid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .hero-stats-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .stat-card {
+    padding: 0.9rem 1rem;
+  }
+
+  .quick-categories-nav {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scrollbar-width: thin;
+  }
+
+  .cat-nav-btn {
+    flex: 0 0 auto;
+  }
+
+  .filters-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .btn-filter-bookmark,
+  .btn-reset-filters {
+    grid-column: auto;
+  }
+
+  .news-card-content {
+    padding: 1rem;
+  }
+
+  .news-card-meta,
+  .source-card-meta,
+  .footer-bottom {
+    align-items: flex-start;
+  }
+
+  .news-card-meta,
+  .source-card-meta {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  #toast-container {
+    left: 0.875rem;
+    right: 0.875rem;
+    bottom: 1rem;
+  }
+
+  .toast {
+    min-width: 0;
+    max-width: none;
+    width: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }
