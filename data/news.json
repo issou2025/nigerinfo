@@ -1,5 +1,625 @@
 [
   {
+    "id": "news-986974de64de",
+    "title": "Arrivée du Général d’armée ASSIMI GOÏTA à Niamey",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Arrivée du Général d’armée ASSIMI GOÏTA à Niamey. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/arrivee-du-general-darmee-assimi-goita-a-niamey/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://anp.ne/wp-content/plugins/epic-news-element/assets/img/jeg-empty.png",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Actualités"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-288b18e05aa9",
+    "title": "Diffa: une initiative féminine pour promouvoir les produits locaux et valoriser le patrimoine culinaire",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Diffa: une initiative féminine pour promouvoir les produits locaux et valoriser le patrimoine culinaire. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/diffa-une-initiative-feminine-pour-promouvoir-les-produits-locaux-et-valoriser-le-patrimoine-culinaire/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/304823-120x86.jpg",
+    "tags": [
+      "Niger",
+      "Diffa",
+      "Actualités"
+    ],
+    "region": "Diffa",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-b95a599c0bce",
+    "title": "Arrivée ce dimanche à Benghazi en Libye du Premier ministre nigérien",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Arrivée ce dimanche à Benghazi en Libye du Premier ministre nigérien. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/arrivee-ce-dimanche-a-benghazi-en-libye-du-premier-ministre-nigerien/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/1000719193-120x86.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-5b2983ca7741",
+    "title": "Renforcement du réseau routier : Le ministre de l’Équipement suit l’évolution des travaux sur deux axes stratégiques",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Renforcement du réseau routier : Le ministre de l’Équipement suit l’évolution des travaux sur deux axes stratégiques. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/renforcement-du-reseau-routier-le-ministre-de-lequipement-suit-levolution-des-travaux-sur-deux-axes-strategiques/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/1000721141-120x86.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-b38706776a67",
+    "title": "Visite officielle de travail du Président Malien à Niamey : Ferme détermination de Niamey et Bamako à faire face à tous les défis communs dans la solidarité",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Visite officielle de travail du Président Malien à Niamey : Ferme détermination de Niamey et Bamako à faire face à tous les défis communs dans la solidarité. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/visite-officielle-de-travail-du-president-malien-a-niamey-ferme-determination-de-niamey-et-bamako-a-faire-face-a-tous-les-defis-communs-dans-la-solidarite/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.lesahel.org/wp-content/uploads/2026/11/BBB-IMG_7754-1024x683.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Actualités"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-fe3c4e97c489",
+    "title": "35è session ordinaire du Conseil d’Administration du Fonds de Solidarité Africain (FSA) : « New SUMMIT 2030 », le nouveau plan du FSA pour passer à l’action",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : 35è session ordinaire du Conseil d’Administration du Fonds de Solidarité Africain (FSA) : « New SUMMIT 2030 », le nouveau plan du FSA pour passer à l’action. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/35e-session-ordinaire-du-conseil-dadministration-du-fonds-de-solidarite-africain-fsa-new-summit-2030-le-nouveau-plan-du-fsa-pour-passer-a-laction/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.lesahel.org/wp-content/uploads/2026/11/ISSA4250.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-2a05c992eea6",
+    "title": "Pourquoi l’axe Niamey-Alger dérange tant !",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Pourquoi l’axe Niamey-Alger dérange tant !. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/pourquoi-laxe-niamey-alger-derange-tant/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.lesahel.org/wp-content/uploads/2023/08/dronep.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Actualités"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-151c06b8510c",
+    "title": "Mme Adama Garba Abdou, Présidente nationale de la Jeune Chambre Internationale(JCI) Niger : « Nous voudrions surtout une fiscalité plus favorable aux jeunes entrepreneurs, afin de faciliter la création et la pérennisation de leurs entreprises »",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Mme Adama Garba Abdou, Présidente nationale de la Jeune Chambre Internationale(JCI) Niger : « Nous voudrions surtout une fiscalité plus favorable aux jeunes entrepreneurs, afin de faciliter la création et la pérennisation de leurs entreprises ». Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/mme-adama-garba-abdou-presidente-nationale-de-la-jeune-chambre-internationalejci-niger-nous-voudrions-surtout-une-fiscalite-plus-favorable-aux-jeunes-entrepreneurs-afin-de-faciliter/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.lesahel.org/wp-content/uploads/2026/11/BBB-KAM_8351-1024x683.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-28c74cbee112",
+    "title": "Le projet PFAN à organisé sa dernière session de son Comité de pilotage à Maradi",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Le projet PFAN à organisé sa dernière session de son Comité de pilotage à Maradi. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/le-projet-pfan-a-organise-sa-derniere-session-de-son-comite-de-pilotage-a-maradi/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Actualités",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.lesahel.org/le-projet-pfan-a-organise-sa-derniere-session-de-son-comite-de-pilotage-a-maradi/PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NjAiIGhlaWdodD0iNTQwIiB2aWV3Qm94PSIwIDAgOTYwIDU0MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4=",
+    "tags": [
+      "Niger",
+      "Maradi",
+      "Actualités"
+    ],
+    "region": "Maradi",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-0602ae67c147",
+    "title": "Synthèse de la mission du ministre de la Santé et de l’Hygiène Publique dans la région d’Agadez : Le Médecin Colonel-major Garba Hakimi fait le point sur les acquis et les défis du système sanitaire régional",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Synthèse de la mission du ministre de la Santé et de l’Hygiène Publique dans la région d’Agadez : Le Médecin Colonel-major Garba Hakimi fait le point sur les acquis et les défis du système sanitaire régional. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/synthese-de-la-mission-du-ministre-de-la-sante-et-de-lhygiene-publique-dans-la-region-dagadez-le-medecin-colonel-major-garba-hakimi-fait-le-point-sur-les-acquis-et-les-defis-d/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Santé",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.lesahel.org/wp-content/uploads/2026/11/IMG_9623.jpg",
+    "tags": [
+      "Niger",
+      "Agadez",
+      "Santé"
+    ],
+    "region": "Agadez",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-a0b4fd338897",
+    "title": "Zinder/Défense : Présentation officielle au drapeau du contingent 2025 au CI/FAN d’Aroungouza",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Zinder/Défense : Présentation officielle au drapeau du contingent 2025 au CI/FAN d’Aroungouza. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/zinder-defense-presentation-officielle-au-drapeau-du-contingent-2025-au-ci-fan-daroungouza/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Sécurité",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Zinder",
+      "Sécurité"
+    ],
+    "region": "Zinder",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-7f7beb808393",
+    "title": "Niger–Mali : Tiani et Goïta réaffirment leur engagement à renforcer l���AES et la lutte contre le terrorisme",
+    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger–Mali : Tiani et Goïta réaffirment leur engagement à renforcer l���AES et la lutte contre le terrorisme. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Aïr Info",
+    "sourceUrl": "https://airinfoagadez.com/2026/11/05/niger-mali-tiani-et-goita-reaffirment-leur-engagement-a-renforcer-laes-et-la-lutte-contre-le-terrorisme/",
+    "sourceHome": "https://www.airinfoagadez.com",
+    "category": "Sécurité",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/FB_IMG_1793896083113-80x60.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Sécurité"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-1d6bf0fcb696",
+    "title": "Examen de certification en santé 2026 : l'IPSP affiche 91,72 % de réussite au Niger",
+    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Examen de certification en santé 2026 : l'IPSP affiche 91,72 % de réussite au Niger. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Niger Diaspora",
+    "sourceUrl": "https://www.nigerdiaspora.net/education/examen-de-certification-en-sante-2026-lipsp-affiche-91-72-de-reussite-au-niger",
+    "sourceHome": "https://www.nigerdiaspora.net",
+    "category": "Santé",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Education/IPSP_Niger_.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Santé"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-ef0d13494d72",
+    "title": "Le Niger est notre bien le plus précieux » : Seyni Kountché, 39 ans après - Par Assane Soumana",
+    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Le Niger est notre bien le plus précieux » : Seyni Kountché, 39 ans après - Par Assane Soumana. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Niger Diaspora",
+    "sourceUrl": "https://www.nigerdiaspora.net/politique/le-niger-est-notre-bien-le-plus-precieux-seyni-kountche-39-ans-apres-par-assane-soumana",
+    "sourceHome": "https://www.nigerdiaspora.net",
+    "category": "Diaspora",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/ba/le-niger-est-notre-bien-le-plus-precieux-seyni-kountche-39-ans-apres-par-assane-soumana-bad81808.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Diaspora"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-a3bc8315fc52",
+    "title": "Visite d'Assimi Goïta à Niamey : sécurité et économie au cœur du communiqué conjoint",
+    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Visite d'Assimi Goïta à Niamey : sécurité et économie au cœur du communiqué conjoint. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Niger Diaspora",
+    "sourceUrl": "https://www.nigerdiaspora.net/politique/visite-dassimi-goita-a-niamey-securite-et-economie-au-coeur-du-communique-conjoint",
+    "sourceHome": "https://www.nigerdiaspora.net",
+    "category": "Économie",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/0f/visite-dassimi-goita-a-niamey-securite-et-economie-au-coeur-du-communique-conjoint-0f82f2bc.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Économie"
+    ],
+    "region": "Niamey",
+    "importance": 4,
+    "isSample": false
+  },
+  {
+    "id": "news-f9ac7906b813",
+    "title": "Niger : l’Algérie envoie Ahmed Attaf à Niamey avec une lettre de Tebboune au Général Tiani",
+    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Niger : l’Algérie envoie Ahmed Attaf à Niamey avec une lettre de Tebboune au Général Tiani. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Niger Diaspora",
+    "sourceUrl": "https://www.nigerdiaspora.net/politique/niger-lalgerie-envoie-ahmed-attaf-a-niamey-avec-une-lettre-de-tebboune-au-general-tiani",
+    "sourceHome": "https://www.nigerdiaspora.net",
+    "category": "Diaspora",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/18/niger-lalgerie-envoie-ahmed-attaf-a-niamey-avec-une-lettre-de-tebboune-au-general-tiani-180fe637.jpeg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Diaspora"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-f76ba08d8bbf",
+    "title": "Visite d'Assimi Goïta à Niamey : sécurité et économie au cœur du communiqué conjoint",
+    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Visite d'Assimi Goïta à Niamey : sécurité et économie au cœur du communiqué conjoint. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Niger Diaspora",
+    "sourceUrl": "https://nigerdiaspora.net/politique/visite-dassimi-goita-a-niamey-securite-et-economie-au-coeur-du-communique-conjoint",
+    "sourceHome": "https://www.nigerdiaspora.net",
+    "category": "Économie",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Poltique/visite-dassimi-goita-a-niamey-securite-et-economie-au-coeur-du-communique-conjoint.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Économie"
+    ],
+    "region": "Niamey",
+    "importance": 4,
+    "isSample": false
+  },
+  {
+    "id": "news-6a9ae0d94f9f",
+    "title": "Trump and Qatar’s emir discuss efforts for regional de-escalation in call",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Trump and Qatar’s emir discuss efforts for regional de-escalation in call. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25135403620111-1767755000.jpg?resize=770%2C513&quality=80",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-aab0e8da5ac0",
+    "title": "Saudi-led coalition says drone intercepted in Mecca region",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Saudi-led coalition says drone intercepted in Mecca region. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?update=5127970",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25135403620111-1767755000.jpg?resize=1920%2C1440",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-16ab5c50611d",
+    "title": "Iranian MP says country’s missiles could reach Europe if US, Israel attack again",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Iranian MP says country’s missiles could reach Europe if US, Israel attack again. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?update=5127818",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25135403620111-1767755000.jpg?resize=1920%2C1440",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-83fd8edc93b2",
+    "title": "WATCH: Aid groups in Gaza turn discarded cooking pots into seawalls",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : WATCH: Aid groups in Gaza turn discarded cooking pots into seawalls. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?update=5127810",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25135403620111-1767755000.jpg?resize=1920%2C1440",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-e22f497ce3fd",
+    "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aec701d-1793880093.jpg?resize=770%2C513&quality=80",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-617300813af1",
+    "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/PHOTO-2026-11-04-00-19-44-2-1793949474.jpg?resize=770%2C513&quality=80",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-bd641e2b8ca1",
+    "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Israel’s President Herzog to name candidate to form government on Sunday. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed512d29ac-1793937709.jpg?resize=770%2C513&quality=80",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-609e45b342fa",
+    "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Iran’s security chief meets Putin, delivers message from Khamenei. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aed15d3ae53-1793922515.jpg?resize=770%2C513&quality=80",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-8cbbf393ef7d",
+    "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2025/12/getty_694e5012c2-1766739986.jpg?resize=1920%2C1440",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-419166b7c8d4",
+    "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : US judge halts construction of Trump’s triumphal arch in Washington, DC. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Al Jazeera Niger",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc",
+    "sourceHome": "https://www.aljazeera.com",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aad6d78-1789750648.jpg?resize=1920%2C1440",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-fdb0f2e9fc7b",
+    "title": "FAO Food Price Index edges down in October amid subdued demand",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO Food Price Index edges down in October amid subdued demand. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/data/food-price-indices_web-page-slot3_510x34029dce72b-3b7c-4c41-84de-22187126c07d.jpg?sfvrsn=78fef4cc_2",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-dca248ddec96",
+    "title": "FAO opens first Global Pollinator Conference to accelerate global action to protect pollinators",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO opens first Global Pollinator Conference to accelerate global action to protect pollinators. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/newsroom/detail/fao-opens-first-global-pollinator-conference-to-accelerate-global-action-to-protect-pollinators/en",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/default-album/bees90a6a7eb-c4c0-44e6-adc4-843c0186243a.jpg?sfvrsn=8475dd6_2",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-9b9ca2aefd0b",
+    "title": "International law's role in advancing the right to adequate food",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : International law's role in advancing the right to adequate food. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/director-general/news/details/director-general-underscores-role-of-international-law-in-advancing-the-right-to-adequate-food/en",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/dg-corner/filio.jpg?sfvrsn=b0179175_2",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-914eb990e9d0",
+    "title": "Niger: Niger Receives 1.65m Liters of Algerian Fuel As Shortages Persist(Daba Finance)",
+    "summary": "Cette information a été repérée depuis AllAfrica Niger. Elle concerne : Niger: Niger Receives 1.65m Liters of Algerian Fuel As Shortages Persist(Daba Finance). Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "AllAfrica Niger",
+    "sourceUrl": "https://allafrica.com/stories/202611060035.html",
+    "sourceHome": "https://allafrica.com/niger",
+    "category": "Économie",
+    "publishedAt": "2026-11-06T10:38:18.372Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Économie"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
     "id": "news-35f28f4d306f",
     "title": "Niger–Mali : Tiani et Goïta réaffirment leur engagement à renforcer l��AES et la lutte contre le terrorisme",
     "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger–Mali : Tiani et Goïta réaffirment leur engagement à renforcer l��AES et la lutte contre le terrorisme. Consultez la source originale pour lire le contenu complet.",
@@ -200,6 +820,226 @@
     "isSample": false
   },
   {
+    "id": "news-bc8925796298",
+    "title": "Le prix de l’oignon est élevé, et même très élevé sur les marchés de gros de Niamey (RECA)",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Le prix de l’oignon est élevé, et même très élevé sur les marchés de gros de Niamey (RECA). Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/le-prix-de-loignon-est-eleve-et-meme-tres-eleve-sur-les-marches-de-gros-de-niamey-reca/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Actualités",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/1000723556-120x86.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Actualités"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-edf03334229b",
+    "title": "Tahoua : La Chambre Régionale d’Agriculture a un nouveau bureau exécutif",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Tahoua : La Chambre Régionale d’Agriculture a un nouveau bureau exécutif. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/tahoua-la-chambre-regionale-dagriculture-a-un-nouveau-bureau-executif/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Agriculture",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/PHOTO-2026-11-05-20-15-42-120x86.jpg",
+    "tags": [
+      "Niger",
+      "Tahoua",
+      "Agriculture"
+    ],
+    "region": "Tahoua",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-5f1579f73250",
+    "title": "Le Niger sur Kalangou du 5 novembre 2026",
+    "summary": "Cette information a été repérée depuis Studio Kalangou. Elle concerne : Le Niger sur Kalangou du 5 novembre 2026. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Studio Kalangou",
+    "sourceUrl": "https://www.studiokalangou.org/143062-le-niger-sur-kalangou-du-5-novembre-2026",
+    "sourceHome": "https://www.studiokalangou.org",
+    "category": "Actualités",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2026/11/Foncier-prevention-des-conflits-et-la-coexistence-entre-communautes-daccueil-et-populations-deplacees.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-79e38291d4af",
+    "title": "Commandant Amadou Torda, préfet du département d’Aguié : « Il est prévu très prochainement la création et le développement de la filière souchet qui prendra en compte tous les maillons »",
+    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Commandant Amadou Torda, préfet du département d’Aguié : « Il est prévu très prochainement la création et le développement de la filière souchet qui prendra en compte tous les maillons ». Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Le Sahel",
+    "sourceUrl": "https://www.lesahel.org/commandant-amadou-torda-prefet-du-departement-daguie-il-est-prevu-tres-prochainement-la-creation-et-le-developpement-de-la-filiere-souchet-qui-prendra-en-compte-tous-les-maillo/",
+    "sourceHome": "https://www.lesahel.org",
+    "category": "Humanitaire",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Humanitaire"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-0e2eebaf03ea",
+    "title": "Cybercriminalité au Niger : il inventait de faux malades et utilisait la photo de son propre enfant pour escroquer les donateurs",
+    "summary": "Cette information a été repérée depuis ActuNiger. Elle concerne : Cybercriminalité au Niger : il inventait de faux malades et utilisait la photo de son propre enfant pour escroquer les donateurs. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "ActuNiger",
+    "sourceUrl": "https://www.actuniger.com/faits-divers/22549-cybercriminalite-au-niger-il-inventait-de-faux-malades-et-utilisait-la-photo-de-son-propre-enfant-pour-escroquer-les-donateurs",
+    "sourceHome": "https://www.actuniger.com",
+    "category": "Actualités",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.actuniger.com/cache/thumbs/6392c32abe7a0b47ff8dba5166b81dbe.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-1975b4fa25d7",
+    "title": "Journée de l’unité nationale russe : l’ONG Ensemble Main dans la Main Niger-Russie organise une rencontre éducative à Niamey",
+    "summary": "Cette information a été repérée depuis ActuNiger. Elle concerne : Journée de l’unité nationale russe : l’ONG Ensemble Main dans la Main Niger-Russie organise une rencontre éducative à Niamey. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "ActuNiger",
+    "sourceUrl": "https://www.actuniger.com/societe/22547-journee-de-lunite-nationale-russe-long-ensemble-main-dans-la-main-niger-russie-organise-une-rencontre-educative-a-niamey",
+    "sourceHome": "https://www.actuniger.com",
+    "category": "Actualités",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.actuniger.com/cache/thumbs/4c597132485aabb55519fd1326ce1051.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Actualités"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-f7912a57e87f",
+    "title": "Niger–Mali : le Président Assimi Goïta accueilli à Niamey par le Général Abdourahamane Tiani",
+    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger–Mali : le Président Assimi Goïta accueilli à Niamey par le Général Abdourahamane Tiani. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Aïr Info",
+    "sourceUrl": "https://airinfoagadez.com/2026/11/05/niger-mali-le-president-assimi-goita-accueilli-a-niamey-par-le-general-abdourahamane-tiani/",
+    "sourceHome": "https://www.airinfoagadez.com",
+    "category": "Actualités régionales",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/IMG-20261105-WA0156-80x60.jpg",
+    "tags": [
+      "Niger",
+      "Niamey",
+      "Actualités régionales"
+    ],
+    "region": "Niamey",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-4fe07977c3c6",
+    "title": "Niger : la Police judiciaire démantèle une escroquerie aux faux appels à l’aide médicale sur les réseaux sociaux",
+    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger : la Police judiciaire démantèle une escroquerie aux faux appels à l’aide médicale sur les réseaux sociaux. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Aïr Info",
+    "sourceUrl": "https://airinfoagadez.com/2026/11/05/niger-la-police-judiciaire-demantele-une-escroquerie-aux-faux-appels-a-laide-medicale-sur-les-reseaux-sociaux/",
+    "sourceHome": "https://www.airinfoagadez.com",
+    "category": "Actualités régionales",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/file_00000000d8c881f4885656bc3ba6f50e-80x60.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités régionales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-649851939a77",
+    "title": "https://blogs.worldbank.org/en/voices/from-commitment-to-delivery--how-institutions-turn-development-a",
+    "summary": "Cette information a été repérée depuis Banque mondiale Niger. Elle concerne : https://blogs.worldbank.org/en/voices/from-commitment-to-delivery--how-institutions-turn-development-a. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Banque mondiale Niger",
+    "sourceUrl": "https://blogs.worldbank.org/en/voices/from-commitment-to-delivery--how-institutions-turn-development-a",
+    "sourceHome": "https://www.worldbank.org",
+    "category": "Développement",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://s7d1.scene7.com/is/image/wbcollab/20240613-Fiji-Tourism-Na-Vualiku-Vanua-Levu?qlt=90&hei=630&wid=1200&fit=hfit",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Développement"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-b14aa7720837",
+    "title": "https://www.worldbank.org/ext/en/digital-ai",
+    "summary": "Cette information a été repérée depuis Banque mondiale Niger. Elle concerne : https://www.worldbank.org/ext/en/digital-ai. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Banque mondiale Niger",
+    "sourceUrl": "https://www.worldbank.org/ext/en/digital-ai",
+    "sourceHome": "https://www.worldbank.org",
+    "category": "Développement",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Développement"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-7671f331a496",
+    "title": "Moussa Camara : l’homme qui répare les esprits avant le grand retour",
+    "summary": "Cette information a été repérée depuis OIM Niger. Elle concerne : Moussa Camara : l’homme qui répare les esprits avant le grand retour. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "OIM Niger",
+    "sourceUrl": "https://niger.iom.int/stories/moussa-camara-lhomme-qui-repare-les-esprits-avant-le-grand-retour",
+    "sourceHome": "https://niger.iom.int",
+    "category": "Migration",
+    "publishedAt": "2026-11-05T22:22:25.835Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Migration"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
     "id": "news-550e7e6112be",
     "title": "Éducation :Lancement à Niamey des préinscriptions pour le Bac et le BTS d’Etat, session 2027",
     "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Éducation :Lancement à Niamey des préinscriptions pour le Bac et le BTS d’Etat, session 2027. Consultez la source originale pour lire le contenu complet.",
@@ -256,66 +1096,6 @@
       "Éducation"
     ],
     "region": "Tahoua",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-bc8925796298",
-    "title": "Le prix de l’oignon est élevé, et même très élevé sur les marchés de gros de Niamey (RECA)",
-    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Le prix de l’oignon est élevé, et même très élevé sur les marchés de gros de Niamey (RECA). Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Agence Nigérienne de Presse",
-    "sourceUrl": "https://anp.ne/le-prix-de-loignon-est-eleve-et-meme-tres-eleve-sur-les-marches-de-gros-de-niamey-reca/",
-    "sourceHome": "https://www.anp.ne",
-    "category": "Actualités",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/1000723556-120x86.jpg",
-    "tags": [
-      "Niger",
-      "Niamey",
-      "Actualités"
-    ],
-    "region": "Niamey",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-edf03334229b",
-    "title": "Tahoua : La Chambre Régionale d’Agriculture a un nouveau bureau exécutif",
-    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Tahoua : La Chambre Régionale d’Agriculture a un nouveau bureau exécutif. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Agence Nigérienne de Presse",
-    "sourceUrl": "https://anp.ne/tahoua-la-chambre-regionale-dagriculture-a-un-nouveau-bureau-executif/",
-    "sourceHome": "https://www.anp.ne",
-    "category": "Agriculture",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/PHOTO-2026-11-05-20-15-42-120x86.jpg",
-    "tags": [
-      "Niger",
-      "Tahoua",
-      "Agriculture"
-    ],
-    "region": "Tahoua",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-5f1579f73250",
-    "title": "Le Niger sur Kalangou du 5 novembre 2026",
-    "summary": "Cette information a été repérée depuis Studio Kalangou. Elle concerne : Le Niger sur Kalangou du 5 novembre 2026. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Studio Kalangou",
-    "sourceUrl": "https://www.studiokalangou.org/143062-le-niger-sur-kalangou-du-5-novembre-2026",
-    "sourceHome": "https://www.studiokalangou.org",
-    "category": "Actualités",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2026/11/Foncier-prevention-des-conflits-et-la-coexistence-entre-communautes-daccueil-et-populations-deplacees.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités"
-    ],
-    "region": "Niger",
     "importance": 2,
     "isSample": false
   },
@@ -476,166 +1256,6 @@
       "Actualités"
     ],
     "region": "Maradi",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-79e38291d4af",
-    "title": "Commandant Amadou Torda, préfet du département d’Aguié : « Il est prévu très prochainement la création et le développement de la filière souchet qui prendra en compte tous les maillons »",
-    "summary": "Cette information a été repérée depuis Le Sahel. Elle concerne : Commandant Amadou Torda, préfet du département d’Aguié : « Il est prévu très prochainement la création et le développement de la filière souchet qui prendra en compte tous les maillons ». Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Le Sahel",
-    "sourceUrl": "https://www.lesahel.org/commandant-amadou-torda-prefet-du-departement-daguie-il-est-prevu-tres-prochainement-la-creation-et-le-developpement-de-la-filiere-souchet-qui-prendra-en-compte-tous-les-maillo/",
-    "sourceHome": "https://www.lesahel.org",
-    "category": "Humanitaire",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Humanitaire"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-0e2eebaf03ea",
-    "title": "Cybercriminalité au Niger : il inventait de faux malades et utilisait la photo de son propre enfant pour escroquer les donateurs",
-    "summary": "Cette information a été repérée depuis ActuNiger. Elle concerne : Cybercriminalité au Niger : il inventait de faux malades et utilisait la photo de son propre enfant pour escroquer les donateurs. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "ActuNiger",
-    "sourceUrl": "https://www.actuniger.com/faits-divers/22549-cybercriminalite-au-niger-il-inventait-de-faux-malades-et-utilisait-la-photo-de-son-propre-enfant-pour-escroquer-les-donateurs",
-    "sourceHome": "https://www.actuniger.com",
-    "category": "Actualités",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.actuniger.com/cache/thumbs/6392c32abe7a0b47ff8dba5166b81dbe.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-1975b4fa25d7",
-    "title": "Journée de l’unité nationale russe : l’ONG Ensemble Main dans la Main Niger-Russie organise une rencontre éducative à Niamey",
-    "summary": "Cette information a été repérée depuis ActuNiger. Elle concerne : Journée de l’unité nationale russe : l’ONG Ensemble Main dans la Main Niger-Russie organise une rencontre éducative à Niamey. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "ActuNiger",
-    "sourceUrl": "https://www.actuniger.com/societe/22547-journee-de-lunite-nationale-russe-long-ensemble-main-dans-la-main-niger-russie-organise-une-rencontre-educative-a-niamey",
-    "sourceHome": "https://www.actuniger.com",
-    "category": "Actualités",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.actuniger.com/cache/thumbs/4c597132485aabb55519fd1326ce1051.jpg",
-    "tags": [
-      "Niger",
-      "Niamey",
-      "Actualités"
-    ],
-    "region": "Niamey",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-f7912a57e87f",
-    "title": "Niger–Mali : le Président Assimi Goïta accueilli à Niamey par le Général Abdourahamane Tiani",
-    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger–Mali : le Président Assimi Goïta accueilli à Niamey par le Général Abdourahamane Tiani. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Aïr Info",
-    "sourceUrl": "https://airinfoagadez.com/2026/11/05/niger-mali-le-president-assimi-goita-accueilli-a-niamey-par-le-general-abdourahamane-tiani/",
-    "sourceHome": "https://www.airinfoagadez.com",
-    "category": "Actualités régionales",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/IMG-20261105-WA0156-80x60.jpg",
-    "tags": [
-      "Niger",
-      "Niamey",
-      "Actualités régionales"
-    ],
-    "region": "Niamey",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-4fe07977c3c6",
-    "title": "Niger : la Police judiciaire démantèle une escroquerie aux faux appels à l’aide médicale sur les réseaux sociaux",
-    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger : la Police judiciaire démantèle une escroquerie aux faux appels à l’aide médicale sur les réseaux sociaux. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Aïr Info",
-    "sourceUrl": "https://airinfoagadez.com/2026/11/05/niger-la-police-judiciaire-demantele-une-escroquerie-aux-faux-appels-a-laide-medicale-sur-les-reseaux-sociaux/",
-    "sourceHome": "https://www.airinfoagadez.com",
-    "category": "Actualités régionales",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/file_00000000d8c881f4885656bc3ba6f50e-80x60.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités régionales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-649851939a77",
-    "title": "https://blogs.worldbank.org/en/voices/from-commitment-to-delivery--how-institutions-turn-development-a",
-    "summary": "Cette information a été repérée depuis Banque mondiale Niger. Elle concerne : https://blogs.worldbank.org/en/voices/from-commitment-to-delivery--how-institutions-turn-development-a. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Banque mondiale Niger",
-    "sourceUrl": "https://blogs.worldbank.org/en/voices/from-commitment-to-delivery--how-institutions-turn-development-a",
-    "sourceHome": "https://www.worldbank.org",
-    "category": "Développement",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://s7d1.scene7.com/is/image/wbcollab/20240613-Fiji-Tourism-Na-Vualiku-Vanua-Levu?qlt=90&hei=630&wid=1200&fit=hfit",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Développement"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-b14aa7720837",
-    "title": "https://www.worldbank.org/ext/en/digital-ai",
-    "summary": "Cette information a été repérée depuis Banque mondiale Niger. Elle concerne : https://www.worldbank.org/ext/en/digital-ai. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Banque mondiale Niger",
-    "sourceUrl": "https://www.worldbank.org/ext/en/digital-ai",
-    "sourceHome": "https://www.worldbank.org",
-    "category": "Développement",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Développement"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-7671f331a496",
-    "title": "Moussa Camara : l’homme qui répare les esprits avant le grand retour",
-    "summary": "Cette information a été repérée depuis OIM Niger. Elle concerne : Moussa Camara : l’homme qui répare les esprits avant le grand retour. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "OIM Niger",
-    "sourceUrl": "https://niger.iom.int/stories/moussa-camara-lhomme-qui-repare-les-esprits-avant-le-grand-retour",
-    "sourceHome": "https://niger.iom.int",
-    "category": "Migration",
-    "publishedAt": "2026-11-05T22:22:25.835Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Migration"
-    ],
-    "region": "Niger",
     "importance": 2,
     "isSample": false
   },
@@ -840,6 +1460,66 @@
     "isSample": false
   },
   {
+    "id": "news-61a0707a1bc2",
+    "title": "Le Comité de Politique Monétaire",
+    "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Le Comité de Politique Monétaire. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "BCEAO Niger",
+    "sourceUrl": "https://www.bceao.int/fr/content/le-comite-de-politique-monetaire",
+    "sourceHome": "https://www.bceao.int",
+    "category": "Économie",
+    "publishedAt": "2026-11-05T16:42:20.156Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao.png",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Économie"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-ffbe65f4ef15",
+    "title": "Les Conseils Nationaux du Crédit",
+    "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Les Conseils Nationaux du Crédit. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "BCEAO Niger",
+    "sourceUrl": "https://www.bceao.int/fr/content/le-conseil-national-du-credit",
+    "sourceHome": "https://www.bceao.int",
+    "category": "Économie",
+    "publishedAt": "2026-11-05T16:42:20.156Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao.png",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Économie"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-57fd7a94f1b0",
+    "title": "Rapport sur la politique monétaire - Décembre 2022",
+    "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Rapport sur la politique monétaire - Décembre 2022. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "BCEAO Niger",
+    "sourceUrl": "https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20D%C3%A9cembre%202022.pdf",
+    "sourceHome": "https://www.bceao.int",
+    "category": "Économie",
+    "publishedAt": "2026-11-05T16:42:20.156Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/CPM-Juin-2025.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Économie"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
     "id": "news-9595b76dc553",
     "title": "Le Gouverneur de la région de Zinder effectue une visite terrain sur le site d’aménagement hydro- agricole de Kassama dans le département de Damagaram Takaya",
     "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Le Gouverneur de la région de Zinder effectue une visite terrain sur le site d’aménagement hydro- agricole de Kassama dans le département de Damagaram Takaya. Consultez la source originale pour lire le contenu complet.",
@@ -848,7 +1528,7 @@
     "sourceHome": "https://www.anp.ne",
     "category": "Actualités",
     "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/Perimetre3-120x86.jpeg",
     "tags": [
       "Niger",
@@ -868,7 +1548,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/9146a695738ae9060095047af7372f13.jpg",
     "tags": [
       "Niger",
@@ -888,7 +1568,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/5bf29fc5648f01bc8b8de3659f7cfcb4.jpg",
     "tags": [
       "Niger",
@@ -908,7 +1588,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Sécurité",
     "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/b8f23fa095e82a3297968dcbea2f1312.jpg",
     "tags": [
       "Niger",
@@ -928,7 +1608,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.worldbank.org/default-meta-image.png?width=1200&format=pjpg&optimize=medium",
     "tags": [
       "Niger",
@@ -974,66 +1654,6 @@
       "Niger",
       "Niger",
       "Météo"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-61a0707a1bc2",
-    "title": "Le Comité de Politique Monétaire",
-    "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Le Comité de Politique Monétaire. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "BCEAO Niger",
-    "sourceUrl": "https://www.bceao.int/fr/content/le-comite-de-politique-monetaire",
-    "sourceHome": "https://www.bceao.int",
-    "category": "Économie",
-    "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-05T16:42:20.156Z",
-    "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao.png",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Économie"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-ffbe65f4ef15",
-    "title": "Les Conseils Nationaux du Crédit",
-    "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Les Conseils Nationaux du Crédit. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "BCEAO Niger",
-    "sourceUrl": "https://www.bceao.int/fr/content/le-conseil-national-du-credit",
-    "sourceHome": "https://www.bceao.int",
-    "category": "Économie",
-    "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-05T16:42:20.156Z",
-    "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao.png",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Économie"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-57fd7a94f1b0",
-    "title": "Rapport sur la politique monétaire - Décembre 2022",
-    "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Rapport sur la politique monétaire - Décembre 2022. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "BCEAO Niger",
-    "sourceUrl": "https://www.bceao.int/sites/default/files/2023-03/Rapport%20sur%20la%20politique%20mone%CC%81taire%20-%20D%C3%A9cembre%202022.pdf",
-    "sourceHome": "https://www.bceao.int",
-    "category": "Économie",
-    "publishedAt": "2026-11-05T16:42:20.156Z",
-    "collectedAt": "2026-11-05T16:42:20.156Z",
-    "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/CPM-Juin-2025.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Économie"
     ],
     "region": "Niger",
     "importance": 2,
@@ -1548,7 +2168,7 @@
     "sourceHome": "https://www.armp-niger.org",
     "category": "Marchés publics",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://myjmr.org/media/luna-lpmyjmr.webp",
     "tags": [
       "Niger",
@@ -1568,7 +2188,7 @@
     "sourceHome": "https://www.armp-niger.org",
     "category": "Marchés publics",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://myjmr.org/media/luna-lpmyjmr.webp",
     "tags": [
       "Niger",
@@ -1588,7 +2208,7 @@
     "sourceHome": "https://www.armp-niger.org",
     "category": "Marchés publics",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://myjmr.org/media/luna-lpmyjmr.webp",
     "tags": [
       "Niger",
@@ -1608,7 +2228,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/581e30ed7a63617a6c55394104a69daf.jpg",
     "tags": [
       "Niger",
@@ -1628,7 +2248,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/9caa8f8fd532b2d522ef27d991f06409.jpg",
     "tags": [
       "Niger",
@@ -1648,7 +2268,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/cc39bb862fd2d9d85423c21b684392e4.jpeg",
     "tags": [
       "Niger",
@@ -1668,7 +2288,7 @@
     "sourceHome": "https://www.airinfoagadez.com",
     "category": "Actualités régionales",
     "publishedAt": "2026-11-05T01:28:58.191Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/10/FB_IMG_1792770587052-80x60.jpg",
     "tags": [
       "Niger",
@@ -1848,7 +2468,7 @@
     "sourceHome": "https://www.sgg.ne",
     "category": "Gouvernement",
     "publishedAt": "2026-11-04T21:10:47.403Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.sgg.ne/images/banners/ban-bon-2.png",
     "tags": [
       "Niger",
@@ -1868,7 +2488,7 @@
     "sourceHome": "https://www.sgg.ne",
     "category": "Gouvernement",
     "publishedAt": "2026-11-04T21:10:47.403Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.sgg.ne/images/banners/ban-bon-2.png",
     "tags": [
       "Niger",
@@ -1888,7 +2508,7 @@
     "sourceHome": "https://www.sgg.ne",
     "category": "Éducation",
     "publishedAt": "2026-11-04T21:10:47.403Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.sgg.ne/images/banners/ban-bon-2.png",
     "tags": [
       "Niger",
@@ -1908,7 +2528,7 @@
     "sourceHome": "https://www.sgg.ne",
     "category": "Gouvernement",
     "publishedAt": "2026-11-04T21:10:47.403Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.sgg.ne/images/banners/ban-bon-2.png",
     "tags": [
       "Niger",
@@ -2168,7 +2788,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T14:50:02.388Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2188,7 +2808,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T14:50:02.388Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2208,7 +2828,7 @@
     "sourceHome": "https://www.anp.ne",
     "category": "Santé",
     "publishedAt": "2026-11-04T14:50:02.388Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/WA_1793730365394-120x86.jpg",
     "tags": [
       "Niger",
@@ -2228,7 +2848,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-04T14:50:02.388Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/26f54c4d8d7c220cedac2acbd510052e.jpg",
     "tags": [
       "Niger",
@@ -2248,8 +2868,8 @@
     "sourceHome": "https://www.nigerdiaspora.net",
     "category": "Diaspora",
     "publishedAt": "2026-11-04T14:50:02.388Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/52/niger-le-magistrat-cheibou-samna-soumana-promu-directeur-a-liij-de-malte-526337a1.jpg",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Poltique/visite-dassimi-goita-a-niamey-securite-et-economie-au-coeur-du-communique-conjoint.jpg",
     "tags": [
       "Niger",
       "Niger",
@@ -2688,7 +3308,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.stat-niger.org/wp-content/uploads/2020/10/PRIX_DES_MATERIAUX_DE_CONSTRUCTION-50x27.jpg",
     "tags": [
       "Niger",
@@ -2708,7 +3328,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2728,7 +3348,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2748,7 +3368,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2768,7 +3388,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2788,7 +3408,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2808,7 +3428,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -2828,7 +3448,7 @@
     "sourceHome": "https://www.stat-niger.org",
     "category": "Statistiques",
     "publishedAt": "2026-11-04T06:29:23.265Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -3048,7 +3668,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/1.original.png",
     "tags": [
       "Niger",
@@ -3068,7 +3688,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/Women_in_the_CERNAFA_cooperative_Niger.original.jpg",
     "tags": [
       "Niger",
@@ -3088,7 +3708,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/michel-isamuna-oosrKe_BcbQ-unsplash.original.jpg",
     "tags": [
       "Niger",
@@ -3108,7 +3728,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/cloudy_2.original.png",
     "tags": [
       "Niger",
@@ -3128,8 +3748,8 @@
     "sourceHome": "https://www.nigerdiaspora.net",
     "category": "Diaspora",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://nigerdiaspora.net/images/01_Diaspora/Abdoulaye_Seydou_Niger.jpg",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Poltique/visite-dassimi-goita-a-niamey-securite-et-economie-au-coeur-du-communique-conjoint.jpg",
     "tags": [
       "Niger",
       "Niger",
@@ -3148,7 +3768,7 @@
     "sourceHome": "https://www.nigerdiaspora.net",
     "category": "Diaspora",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.nigerdiaspora.net/images/01_Poltique/Hama_Amadou_2_Ans.jpg",
     "tags": [
       "Niger",
@@ -3168,7 +3788,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -3188,7 +3808,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -3208,7 +3828,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-11-04T00:09:07.258Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -3468,7 +4088,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/Image2.original.jpg",
     "tags": [
       "Niger",
@@ -3488,7 +4108,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/90.original.png",
     "tags": [
       "Niger",
@@ -3508,7 +4128,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/dr_noura.original.jpg",
     "tags": [
       "Niger",
@@ -3528,7 +4148,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/2.original.png",
     "tags": [
       "Niger",
@@ -3548,7 +4168,7 @@
     "sourceHome": "https://www.anp.ne",
     "category": "Actualités",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/Screenshot-From-2026-11-03-17-31-09-120x86.png",
     "tags": [
       "Niger",
@@ -3568,7 +4188,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2026/04/Niger-Securite-routiere-au-Niger-lANISER-alerte-sur-la-hausse-des-deces-et-lance-une-campagne-nationale-scaled.jpg",
     "tags": [
       "Niger",
@@ -3588,7 +4208,7 @@
     "sourceHome": "https://www.actuniger.com",
     "category": "Actualités",
     "publishedAt": "2026-11-03T19:25:31.255Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.actuniger.com/cache/thumbs/c2608b0143f75b2e4cebe5acf7d59ee8.jpg",
     "tags": [
       "Niger",
@@ -4068,7 +4688,7 @@
     "sourceHome": "https://www.niger-meteo.ne",
     "category": "Météo",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.niger-meteo.ne/media/images/Lecteur_bulletin_previ_JAS_2024.original_lazy.jpg",
     "tags": [
       "Niger",
@@ -4088,7 +4708,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4108,7 +4728,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4128,7 +4748,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4148,7 +4768,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4168,7 +4788,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4188,7 +4808,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://snis.ne/wp-content/uploads/elementor/thumbs/A-r357cp0vofikmjutc47j3mvce0cf3un1i7f617qgao.jpg",
     "tags": [
       "Niger",
@@ -4208,7 +4828,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4228,7 +4848,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://snis.ne/wp-content/uploads/2025/05/Image-2025-05-31-101834.png",
     "tags": [
       "Niger",
@@ -4248,7 +4868,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4268,7 +4888,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://snis.ne/wp-content/uploads/2023/08/ONS.png",
     "tags": [
       "Niger",
@@ -4288,7 +4908,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://snis.ne/wp-content/uploads/2023/12/PS-revue.jpg",
     "tags": [
       "Niger",
@@ -4308,12 +4928,72 @@
     "sourceHome": "https://www.lesahel.org",
     "category": "Sécurité",
     "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.lesahel.org/wp-content/uploads/2026/11/BBB-IMG_1091.jpg",
     "tags": [
       "Niger",
       "Niger",
       "Sécurité"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-1f434a0c2ed4",
+    "title": "The interconnected world of agrifood systems",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : The interconnected world of agrifood systems. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/interactive/2026/interconnected-agrifood-systems/en",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-11-03T11:58:04.517Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/interactive/2026/interconnected-agrifood-systems/assets/share.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-0a3d090b5017",
+    "title": "Agrifood solutions for climate, biodiversity and resilience",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : Agrifood solutions for climate, biodiversity and resilience. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/interactive/2026/climate-biodiversity-agrifood-solutions/en/",
+    "sourceHome": "https://www.fao.org",
+    "category": "Météo",
+    "publishedAt": "2026-11-03T11:58:04.517Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/data/cop-3-2.jpg?sfvrsn=add28b46_2",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Météo"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-0cfa21b93eef",
+    "title": "FAO publications catalogue 2026",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO publications catalogue 2026. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/publications/FAO-publications-catalogue/en",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-11-03T11:58:04.517Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/publications/fao-publications-catalogue-3x2.jpg?sfvrsn=53c399c7_2",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
     ],
     "region": "Niger",
     "importance": 2,
@@ -4334,66 +5014,6 @@
       "Niger",
       "Niger",
       "Diaspora"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-1f434a0c2ed4",
-    "title": "The interconnected world of agrifood systems",
-    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : The interconnected world of agrifood systems. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "FAO Niger",
-    "sourceUrl": "https://www.fao.org/interactive/2026/interconnected-agrifood-systems/en",
-    "sourceHome": "https://www.fao.org",
-    "category": "Agriculture",
-    "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.fao.org/interactive/2026/interconnected-agrifood-systems/assets/share.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Agriculture"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-0a3d090b5017",
-    "title": "Agrifood solutions for climate, biodiversity and resilience",
-    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : Agrifood solutions for climate, biodiversity and resilience. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "FAO Niger",
-    "sourceUrl": "https://www.fao.org/interactive/2026/climate-biodiversity-agrifood-solutions/en/",
-    "sourceHome": "https://www.fao.org",
-    "category": "Météo",
-    "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/data/cop-3-2.jpg?sfvrsn=add28b46_2",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Météo"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-0cfa21b93eef",
-    "title": "FAO publications catalogue 2026",
-    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO publications catalogue 2026. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "FAO Niger",
-    "sourceUrl": "https://www.fao.org/publications/FAO-publications-catalogue/en",
-    "sourceHome": "https://www.fao.org",
-    "category": "Agriculture",
-    "publishedAt": "2026-11-03T11:58:04.517Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/publications/fao-publications-catalogue-3x2.jpg?sfvrsn=53c399c7_2",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Agriculture"
     ],
     "region": "Niger",
     "importance": 2,
@@ -4848,7 +5468,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4868,7 +5488,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4888,7 +5508,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4908,7 +5528,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4928,7 +5548,7 @@
     "sourceHome": "https://www.sante.gouv.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4948,7 +5568,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4968,7 +5588,7 @@
     "sourceHome": "https://www.snis.ne",
     "category": "Santé",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -4988,7 +5608,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Gouvernement",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png",
     "tags": [
       "Niger",
@@ -5008,7 +5628,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Économie",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png",
     "tags": [
       "Niger",
@@ -5028,7 +5648,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Économie",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png",
     "tags": [
       "Niger",
@@ -5048,7 +5668,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Économie",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png",
     "tags": [
       "Niger",
@@ -5068,7 +5688,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Économie",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/bceao_share_0.png",
     "tags": [
       "Niger",
@@ -5088,7 +5708,7 @@
     "sourceHome": "https://www.airinfoagadez.com",
     "category": "Actualités régionales",
     "publishedAt": "2026-11-03T04:03:56.804Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/10/IMG-20261022-WA0006-80x60.jpg",
     "tags": [
       "Niger",
@@ -5288,7 +5908,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Économie",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/CPM-Juin-2025.jpg",
     "tags": [
       "Niger",
@@ -5308,7 +5928,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -5328,7 +5948,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -5348,7 +5968,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -5368,7 +5988,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Économie",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -5388,8 +6008,8 @@
     "sourceHome": "https://www.nigerdiaspora.net",
     "category": "Diaspora",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/81/zinder-le-fssp-et-lonaha-accompagnent-la-seconde-phase-de-vente-de-riz-subventionne_2-81d7f9a0.jpg",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Economie/zinder-le-fssp-et-lonaha-accompagnent-la-seconde-phase-de-vente-de-riz-subventionne_2.jpg",
     "tags": [
       "Niger",
       "Zinder",
@@ -5408,8 +6028,8 @@
     "sourceHome": "https://www.nigerdiaspora.net",
     "category": "Diaspora",
     "publishedAt": "2026-11-02T23:42:30.053Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/24/conseil-des-ministres-du-29-octobre-2026-246e6073.jpeg",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Diaspora/3e-sommet-russie-afrique-bakary-yaou-sangare-rencontre-la-diaspora-nigerienne.jpg",
     "tags": [
       "Niger",
       "Niger",
@@ -5708,7 +6328,7 @@
     "sourceHome": "https://www.bceao.int",
     "category": "Économie",
     "publishedAt": "2026-11-02T16:36:09.789Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.bceao.int/sites/default/files/inline-images/CPM-Juin-2025.jpg",
     "tags": [
       "Niger",
@@ -5728,7 +6348,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-02T16:36:09.789Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2023/08/zinder-conscientiser-les-utilisateurs-des-reseaux-sociaux-sur-la-verification-des-informations.jpg",
     "tags": [
       "Niger",
@@ -6308,7 +6928,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-02T00:28:02.828Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2026/11/JOJ-2026-heure-de-verite-pour-Dakar.jpeg",
     "tags": [
       "Niger",
@@ -6548,7 +7168,7 @@
     "sourceHome": "https://www.anp.ne",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://anp.ne/wp-content/uploads/2026/11/1000719082-120x86.jpg",
     "tags": [
       "Niger",
@@ -6568,7 +7188,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2026/10/Photo-by-AMISOM-via-Iwaria17.jpg",
     "tags": [
       "Niger",
@@ -6588,7 +7208,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -6608,7 +7228,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -6628,7 +7248,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -6648,7 +7268,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2024/11/RAFFINERIE-360x240.jpeg",
     "tags": [
       "Niger",
@@ -6668,7 +7288,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Sécurité",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2025/02/IM-FAN-1-360x240.jpg",
     "tags": [
       "Niger",
@@ -6688,7 +7308,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Sécurité",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2025/02/AMB-CHINE-FAN-1-360x240.jpg",
     "tags": [
       "Niger",
@@ -6708,7 +7328,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2023/04/gorou-banda-360x240.jpeg",
     "tags": [
       "Niger",
@@ -6728,7 +7348,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -6748,7 +7368,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00690322:92feaa65339b8b84e7f513bc6647df3f:arc614x376:w1200.jpg",
     "tags": [
       "Niger",
@@ -6768,7 +7388,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Économie",
     "publishedAt": "2026-11-01T20:51:44.070Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7020,26 +7640,6 @@
     "isSample": false
   },
   {
-    "id": "news-6d87a10ff851",
-    "title": "Niger : 53 camions-citernes de carburant venus d’Algérie arrivent à Agadez",
-    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Niger : 53 camions-citernes de carburant venus d’Algérie arrivent à Agadez. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Niger Diaspora",
-    "sourceUrl": "https://www.nigerdiaspora.net/econonomie/niger-53-camions-citernes-de-carburant-venus-dalgerie-arrivent-a-agadez",
-    "sourceHome": "https://www.nigerdiaspora.net",
-    "category": "Diaspora",
-    "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://nigerdiaspora.net/images/01_Economie/niger-53-camions-citernes-de-carburant-venus-dalgerie-arrivent-a-agadez.jpg",
-    "tags": [
-      "Niger",
-      "Agadez",
-      "Diaspora"
-    ],
-    "region": "Agadez",
-    "importance": 2,
-    "isSample": false
-  },
-  {
     "id": "news-ac9906423fd2",
     "title": "International Comparison Program & Purchasing Power Parity",
     "summary": "Cette information a été repérée depuis Données Banque mondiale Niger. Elle concerne : International Comparison Program & Purchasing Power Parity. Consultez la source originale pour lire le contenu complet.",
@@ -7048,7 +7648,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7068,7 +7668,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7088,7 +7688,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7108,7 +7708,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://data.worldbank.org/assets/images/placeholder.png",
     "tags": [
       "Niger",
@@ -7128,7 +7728,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://data.worldbank.org/assets/images/placeholder.png",
     "tags": [
       "Niger",
@@ -7148,7 +7748,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://data.worldbank.org/assets/images/placeholder.png",
     "tags": [
       "Niger",
@@ -7168,7 +7768,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Économie",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://data.worldbank.org/assets/images/placeholder.png",
     "tags": [
       "Niger",
@@ -7188,7 +7788,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://data.worldbank.org/assets/images/placeholder.png",
     "tags": [
       "Niger",
@@ -7208,7 +7808,7 @@
     "sourceHome": "https://data.worldbank.org/country/niger",
     "category": "Données",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://data.worldbank.org/assets/images/placeholder.png",
     "tags": [
       "Niger",
@@ -7228,7 +7828,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7248,7 +7848,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-11-01T16:41:44.822Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.worldbank.org/ext/en/media_131cf3486463f793995c3e8fd5901583f4d281270.avif?width=1200&format=pjpg&optimize=medium",
     "tags": [
       "Niger",
@@ -7256,6 +7856,26 @@
       "Développement"
     ],
     "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-6d87a10ff851",
+    "title": "Niger : 53 camions-citernes de carburant venus d’Algérie arrivent à Agadez",
+    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Niger : 53 camions-citernes de carburant venus d’Algérie arrivent à Agadez. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Niger Diaspora",
+    "sourceUrl": "https://www.nigerdiaspora.net/econonomie/niger-53-camions-citernes-de-carburant-venus-dalgerie-arrivent-a-agadez",
+    "sourceHome": "https://www.nigerdiaspora.net",
+    "category": "Diaspora",
+    "publishedAt": "2026-11-01T16:41:44.822Z",
+    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "imageUrl": "https://nigerdiaspora.net/images/01_Economie/niger-53-camions-citernes-de-carburant-venus-dalgerie-arrivent-a-agadez.jpg",
+    "tags": [
+      "Niger",
+      "Agadez",
+      "Diaspora"
+    ],
+    "region": "Agadez",
     "importance": 2,
     "isSample": false
   },
@@ -7568,7 +8188,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-11-01T09:46:26.541Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7588,7 +8208,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-11-01T09:46:26.541Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7608,7 +8228,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-11-01T09:46:26.541Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -7628,7 +8248,7 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-11-01T09:46:26.541Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/images/WF1646407_780_3049.jpg?itok=FzkSPE6G",
     "tags": [
       "Niger",
@@ -7648,7 +8268,7 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-11-01T09:46:26.541Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/images/WFP-performance-management-accountability.jpg?itok=DvUJm5d-",
     "tags": [
       "Niger",
@@ -7860,6 +8480,86 @@
     "isSample": false
   },
   {
+    "id": "news-a6d18dc33d99",
+    "title": "Niger : l’armée annonce la neutralisation de sept individus présentés comme des mercenaires et des bandits armés",
+    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger : l’armée annonce la neutralisation de sept individus présentés comme des mercenaires et des bandits armés. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Aïr Info",
+    "sourceUrl": "https://airinfoagadez.com/2026/11/01/niger-larmee-annonce-la-neutralisation-de-sept-individus-presentes-comme-des-mercenaires-et-des-bandits-armes/",
+    "sourceHome": "https://www.airinfoagadez.com",
+    "category": "Actualités régionales",
+    "publishedAt": "2026-11-01T02:38:08.534Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/FB_IMG_1793490411138-80x60.jpg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités régionales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-35bc4ee98108",
+    "title": "Humanitarian support and services",
+    "summary": "Cette information a été repérée depuis PAM Niger. Elle concerne : Humanitarian support and services. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "PAM Niger",
+    "sourceUrl": "https://www.wfp.org/humanitarian-support-and-services",
+    "sourceHome": "https://www.wfp.org/countries/niger",
+    "category": "Sécurité alimentaire",
+    "publishedAt": "2026-11-01T02:38:08.534Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/2026-11/WFP-Humanitarian-support-and-services.jpg?itok=yGXPPfPQ",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Sécurité alimentaire"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-8395ed440243",
+    "title": "Country capacity strengthening",
+    "summary": "Cette information a été repérée depuis PAM Niger. Elle concerne : Country capacity strengthening. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "PAM Niger",
+    "sourceUrl": "https://www.wfp.org/country-capacity-strengthening",
+    "sourceHome": "https://www.wfp.org/countries/niger",
+    "category": "Sécurité alimentaire",
+    "publishedAt": "2026-11-01T02:38:08.534Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/images/WFP-country-capacity-strengthening.jpg?itok=w62uvfGg",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Sécurité alimentaire"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-7e653fd805ff",
+    "title": "West Africa: Lawyer Detained Over Criticism of Authorities On Facebook(MFWA)",
+    "summary": "Cette information a été repérée depuis AllAfrica Niger. Elle concerne : West Africa: Lawyer Detained Over Criticism of Authorities On Facebook(MFWA). Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "AllAfrica Niger",
+    "sourceUrl": "https://allafrica.com/stories/202610140070.html",
+    "sourceHome": "https://allafrica.com/niger",
+    "category": "Actualités internationales",
+    "publishedAt": "2026-11-01T02:38:08.534Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
     "id": "news-a41ef9cdd33d",
     "title": "Le Comité de Politique Monétaire",
     "summary": "Cette information a été repérée depuis BCEAO Niger. Elle concerne : Le Comité de Politique Monétaire. Consultez la source originale pour lire le contenu complet.",
@@ -7914,86 +8614,6 @@
       "Niger",
       "Niger",
       "Économie"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-a6d18dc33d99",
-    "title": "Niger : l’armée annonce la neutralisation de sept individus présentés comme des mercenaires et des bandits armés",
-    "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Niger : l’armée annonce la neutralisation de sept individus présentés comme des mercenaires et des bandits armés. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Aïr Info",
-    "sourceUrl": "https://airinfoagadez.com/2026/11/01/niger-larmee-annonce-la-neutralisation-de-sept-individus-presentes-comme-des-mercenaires-et-des-bandits-armes/",
-    "sourceHome": "https://www.airinfoagadez.com",
-    "category": "Actualités régionales",
-    "publishedAt": "2026-11-01T02:38:08.534Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/11/FB_IMG_1793490411138-80x60.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités régionales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-35bc4ee98108",
-    "title": "Humanitarian support and services",
-    "summary": "Cette information a été repérée depuis PAM Niger. Elle concerne : Humanitarian support and services. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "PAM Niger",
-    "sourceUrl": "https://www.wfp.org/humanitarian-support-and-services",
-    "sourceHome": "https://www.wfp.org/countries/niger",
-    "category": "Sécurité alimentaire",
-    "publishedAt": "2026-11-01T02:38:08.534Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/2026-11/WFP-Humanitarian-support-and-services.jpg?itok=yGXPPfPQ",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Sécurité alimentaire"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-8395ed440243",
-    "title": "Country capacity strengthening",
-    "summary": "Cette information a été repérée depuis PAM Niger. Elle concerne : Country capacity strengthening. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "PAM Niger",
-    "sourceUrl": "https://www.wfp.org/country-capacity-strengthening",
-    "sourceHome": "https://www.wfp.org/countries/niger",
-    "category": "Sécurité alimentaire",
-    "publishedAt": "2026-11-01T02:38:08.534Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/images/WFP-country-capacity-strengthening.jpg?itok=w62uvfGg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Sécurité alimentaire"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-7e653fd805ff",
-    "title": "West Africa: Lawyer Detained Over Criticism of Authorities On Facebook(MFWA)",
-    "summary": "Cette information a été repérée depuis AllAfrica Niger. Elle concerne : West Africa: Lawyer Detained Over Criticism of Authorities On Facebook(MFWA). Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "AllAfrica Niger",
-    "sourceUrl": "https://allafrica.com/stories/202610140070.html",
-    "sourceHome": "https://allafrica.com/niger",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-11-01T02:38:08.534Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
     ],
     "region": "Niger",
     "importance": 2,
@@ -8220,26 +8840,6 @@
     "isSample": false
   },
   {
-    "id": "news-8e613f72fa4d",
-    "title": "Niger : Plusieurs mercenaires neutralisés à travers diverses opérations de sécurisation du territoire national",
-    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Niger : Plusieurs mercenaires neutralisés à travers diverses opérations de sécurisation du territoire national. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Agence Nigérienne de Presse",
-    "sourceUrl": "https://anp.ne/niger-plusieurs-mercenaires-neutralises-a-travers-diverses-operations-de-securisation-du-territoire-national/",
-    "sourceHome": "https://www.anp.ne",
-    "category": "Actualités",
-    "publishedAt": "2026-10-31T23:38:59.476Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://anp.ne/wp-content/uploads/2026/10/photo-collage-1.png-1-e1793449196453-120x86.png",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
     "id": "news-9a8bb37f3644",
     "title": "Agadez : une soixantaine de camions-citernes algériens acheminent du carburant au Niger",
     "summary": "Cette information a été repérée depuis Aïr Info. Elle concerne : Agadez : une soixantaine de camions-citernes algériens acheminent du carburant au Niger. Consultez la source originale pour lire le contenu complet.",
@@ -8248,7 +8848,7 @@
     "sourceHome": "https://www.airinfoagadez.com",
     "category": "Actualités régionales",
     "publishedAt": "2026-10-31T23:38:59.476Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/10/FB_IMG_1793486024675.jpg",
     "tags": [
       "Niger",
@@ -8256,26 +8856,6 @@
       "Actualités régionales"
     ],
     "region": "Agadez",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-c884f3a560fd",
-    "title": "FAO response to global food security challenges",
-    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO response to global food security challenges. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "FAO Niger",
-    "sourceUrl": "https://www.fao.org/in-focus/en/",
-    "sourceHome": "https://www.fao.org",
-    "category": "Agriculture",
-    "publishedAt": "2026-10-31T23:38:59.476Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/other/fao-response-to-global-food-security.jpg?sfvrsn=fe86b035_13",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Agriculture"
-    ],
-    "region": "Niger",
     "importance": 2,
     "isSample": false
   },
@@ -8288,12 +8868,32 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-10-31T23:38:59.476Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/images/WF1757838_DSC00561.jpg?itok=74zOTLAI",
     "tags": [
       "Niger",
       "Niger",
       "Sécurité alimentaire"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-c884f3a560fd",
+    "title": "FAO response to global food security challenges",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO response to global food security challenges. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/in-focus/en/",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-10-31T23:38:59.476Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/other/fao-response-to-global-food-security.jpg?sfvrsn=fe86b035_13",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
     ],
     "region": "Niger",
     "importance": 2,
@@ -8308,12 +8908,32 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-10-31T23:38:59.476Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00601012:788eb8145715b1023e639ce35c783786:arc614x376:w915:us1.jpg",
     "tags": [
       "Niger",
       "Niger",
       "Actualités internationales"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-8e613f72fa4d",
+    "title": "Niger : Plusieurs mercenaires neutralisés à travers diverses opérations de sécurisation du territoire national",
+    "summary": "Cette information a été repérée depuis Agence Nigérienne de Presse. Elle concerne : Niger : Plusieurs mercenaires neutralisés à travers diverses opérations de sécurisation du territoire national. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "Agence Nigérienne de Presse",
+    "sourceUrl": "https://anp.ne/niger-plusieurs-mercenaires-neutralises-a-travers-diverses-operations-de-securisation-du-territoire-national/",
+    "sourceHome": "https://www.anp.ne",
+    "category": "Actualités",
+    "publishedAt": "2026-10-31T23:38:59.476Z",
+    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "imageUrl": "https://anp.ne/wp-content/uploads/2026/10/photo-collage-1.png-1-e1793449196453-120x86.png",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Actualités"
     ],
     "region": "Niger",
     "importance": 2,
@@ -8448,7 +9068,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Sécurité",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/DUkz6tdoRgI/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8468,7 +9088,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/hTDZud2GX2A/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8488,7 +9108,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Éducation",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/ZWqrk54h0eE/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8508,7 +9128,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/-TzMhwhoRXs/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8528,7 +9148,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/B5tSOJde9bo/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8548,7 +9168,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/yuwRr8WVSNk/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8568,7 +9188,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://yt3.googleusercontent.com/j3ZR1nhkoQW_0cC5AJeHNbHr7wTZFeVRLP1gIjswdACdqdzRiGa0uncbEnqJ5HBY6cbKmRzvLw=s900-c-k-c0x00ffffff-no-rj",
     "tags": [
       "Niger",
@@ -8588,7 +9208,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/Mul4Hr1KTBM/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8608,7 +9228,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/k4YBmhAXnd0/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8628,7 +9248,7 @@
     "sourceHome": "https://www.rtn.ne",
     "category": "Média public",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://i.ytimg.com/vi/Pq7dAP4zzNw/hqdefault.jpg",
     "tags": [
       "Niger",
@@ -8648,7 +9268,7 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -8668,7 +9288,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://niger.iom.int/sites/g/files/tmzbdl1221/files/styles/social_media/public/banner/2026-04/banners-drafts_converted14.jpg?h=9b485a40&itok=-qjeBgkU",
     "tags": [
       "Niger",
@@ -8688,7 +9308,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -8708,7 +9328,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.iom.int/sites/g/files/tmzbdl2616/files/styles/social_media/public/banner/com09063.jpg?h=6267228b&itok=tdExRVkC",
     "tags": [
       "Niger",
@@ -8728,7 +9348,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Météo",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.iom.int/sites/g/files/tmzbdl2616/files/styles/social_media/public/banner/climate-action-banner-16x9.png?h=76b797d8&itok=V5EpjhPi",
     "tags": [
       "Niger",
@@ -8748,7 +9368,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-10-31T20:28:49.929Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -8988,7 +9608,7 @@
     "sourceHome": "https://www.presidence.ne",
     "category": "Gouvernement",
     "publishedAt": "2026-10-31T17:12:56.872Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9008,7 +9628,7 @@
     "sourceHome": "https://www.presidence.ne",
     "category": "Gouvernement",
     "publishedAt": "2026-10-31T17:12:56.872Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9028,7 +9648,7 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-10-31T17:12:56.872Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.studiokalangou.org/wp-content/uploads/2026/10/masco.jpg",
     "tags": [
       "Niger",
@@ -9048,12 +9668,32 @@
     "sourceHome": "https://www.studiokalangou.org",
     "category": "Actualités",
     "publishedAt": "2026-10-31T17:12:56.872Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
       "Niger",
       "Actualités"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-96027b24103b",
+    "title": "Non-governmental organizations",
+    "summary": "Cette information a été repérée depuis PAM Niger. Elle concerne : Non-governmental organizations. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "PAM Niger",
+    "sourceUrl": "https://www.wfp.org/non-governmental-organizations",
+    "sourceHome": "https://www.wfp.org/countries/niger",
+    "category": "Sécurité alimentaire",
+    "publishedAt": "2026-10-31T17:12:56.872Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Sécurité alimentaire"
     ],
     "region": "Niger",
     "importance": 2,
@@ -9076,26 +9716,6 @@
       "Diaspora"
     ],
     "region": "Maradi",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-96027b24103b",
-    "title": "Non-governmental organizations",
-    "summary": "Cette information a été repérée depuis PAM Niger. Elle concerne : Non-governmental organizations. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "PAM Niger",
-    "sourceUrl": "https://www.wfp.org/non-governmental-organizations",
-    "sourceHome": "https://www.wfp.org/countries/niger",
-    "category": "Sécurité alimentaire",
-    "publishedAt": "2026-10-31T17:12:56.872Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Sécurité alimentaire"
-    ],
-    "region": "Niger",
     "importance": 2,
     "isSample": false
   },
@@ -9528,7 +10148,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9548,7 +10168,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9568,7 +10188,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Météo",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9588,7 +10208,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9608,7 +10228,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9628,7 +10248,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9648,7 +10268,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T11:59:29.171Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9928,7 +10548,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T05:48:22.124Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9948,7 +10568,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T05:48:22.124Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -9968,7 +10588,7 @@
     "sourceHome": "https://www.hydraulique.gouv.ne",
     "category": "Hydraulique",
     "publishedAt": "2026-10-31T05:48:22.124Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -10208,7 +10828,7 @@
     "sourceHome": "https://www.lesahel.org",
     "category": "Actualités",
     "publishedAt": "2026-10-31T00:08:07.305Z",
-    "collectedAt": "2026-11-04T06:29:23.265Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -10408,7 +11028,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-10-30T20:40:28.746Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -10428,7 +11048,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-10-30T20:40:28.746Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -10448,7 +11068,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-10-30T20:40:28.746Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -10468,7 +11088,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-10-30T20:40:28.746Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -10488,7 +11108,7 @@
     "sourceHome": "https://www.marchespublics.ne",
     "category": "Marchés publics",
     "publishedAt": "2026-10-30T20:40:28.746Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -11348,7 +11968,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T09:02:31.499Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -11368,7 +11988,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T09:02:31.499Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -11388,7 +12008,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Météo",
     "publishedAt": "2026-10-30T09:02:31.499Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -11708,7 +12328,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Météo",
     "publishedAt": "2026-10-30T02:40:14.818Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -11728,7 +12348,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T02:40:14.818Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.reca-niger.org/local/cache-vignettes/L92xH55/arton2048-eb83c.png?1790251943",
     "tags": [
       "Niger",
@@ -11748,7 +12368,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T02:40:14.818Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.reca-niger.org/local/cache-vignettes/L92xH50/arton2047-7e1e5.png?1790251943",
     "tags": [
       "Niger",
@@ -11768,7 +12388,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T02:40:14.818Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.reca-niger.org/local/cache-vignettes/L92xH58/arton1495-d1a1c.png?1790251943",
     "tags": [
       "Niger",
@@ -11788,7 +12408,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T02:40:14.818Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.reca-niger.org/local/cache-vignettes/L92xH60/arton2013-c6d90.png?1790251943",
     "tags": [
       "Niger",
@@ -11808,7 +12428,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-30T02:40:14.818Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.reca-niger.org/local/cache-vignettes/L93xH62/arton1337-02a8d.jpg?1790251943",
     "tags": [
       "Niger",
@@ -12028,7 +12648,7 @@
     "sourceHome": "https://www.reca-niger.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-29T23:13:13.990Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.reca-niger.org/local/cache-vignettes/L55xH70/arton351-591ac.jpg?1790251943",
     "tags": [
       "Niger",
@@ -12048,7 +12668,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Gouvernement",
     "publishedAt": "2026-10-29T23:13:13.990Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2026/09/CM-CNSP2026-360x240.jpg",
     "tags": [
       "Niger",
@@ -12288,7 +12908,7 @@
     "sourceHome": "https://www.airinfoagadez.com",
     "category": "Actualités régionales",
     "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/10/file_000000000a88821094eaa5eeb01fd7c5-2-80x60.png",
     "tags": [
       "Niger",
@@ -12308,7 +12928,7 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.worldbank.org/content/dam/photos/780x439/2026/oct-3/URL-Rectangle-780x439-19.png",
     "tags": [
       "Niger",
@@ -12328,52 +12948,12 @@
     "sourceHome": "https://www.worldbank.org",
     "category": "Développement",
     "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.worldbank.org/en/news/immersive-story/2026/10/14/media_1b7f625d3d0cf3d08bce26fb9d0967c9b3efa7cdd.jpg?width=1200&format=pjpg&optimize=medium",
     "tags": [
       "Niger",
       "Niger",
       "Développement"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-13238394e38f",
-    "title": "FAO 100 Women Heroes in Agrifood Systems and Rural Development",
-    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO 100 Women Heroes in Agrifood Systems and Rural Development. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "FAO Niger",
-    "sourceUrl": "https://www.fao.org/100-women-heroes/en",
-    "sourceHome": "https://www.fao.org",
-    "category": "Agriculture",
-    "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/data/100womencard.jpg?sfvrsn=76f9eee1_12",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Agriculture"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-fa14800551f9",
-    "title": "Climate action in agrifood systems for a more sustainable and food secure future in Algeria and Morocco",
-    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : Climate action in agrifood systems for a more sustainable and food secure future in Algeria and Morocco. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "FAO Niger",
-    "sourceUrl": "https://www.facebook.com/reel/1662271272178664",
-    "sourceHome": "https://www.fao.org",
-    "category": "Météo",
-    "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
-    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/social-media/fb-29-10-26.jpg?sfvrsn=fa6897e6_2",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Météo"
     ],
     "region": "Niger",
     "importance": 2,
@@ -12388,7 +12968,7 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -12408,12 +12988,52 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
       "Niger",
       "Sécurité alimentaire"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-13238394e38f",
+    "title": "FAO 100 Women Heroes in Agrifood Systems and Rural Development",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : FAO 100 Women Heroes in Agrifood Systems and Rural Development. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.fao.org/100-women-heroes/en",
+    "sourceHome": "https://www.fao.org",
+    "category": "Agriculture",
+    "publishedAt": "2026-10-29T18:58:11.643Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/data/100womencard.jpg?sfvrsn=76f9eee1_12",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Agriculture"
+    ],
+    "region": "Niger",
+    "importance": 2,
+    "isSample": false
+  },
+  {
+    "id": "news-fa14800551f9",
+    "title": "Climate action in agrifood systems for a more sustainable and food secure future in Algeria and Morocco",
+    "summary": "Cette information a été repérée depuis FAO Niger. Elle concerne : Climate action in agrifood systems for a more sustainable and food secure future in Algeria and Morocco. Consultez la source originale pour lire le contenu complet.",
+    "sourceName": "FAO Niger",
+    "sourceUrl": "https://www.facebook.com/reel/1662271272178664",
+    "sourceHome": "https://www.fao.org",
+    "category": "Météo",
+    "publishedAt": "2026-10-29T18:58:11.643Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
+    "imageUrl": "https://www.fao.org/media/images/homepagelibraries/social-media/fb-29-10-26.jpg?sfvrsn=fa6897e6_2",
+    "tags": [
+      "Niger",
+      "Niger",
+      "Météo"
     ],
     "region": "Niger",
     "importance": 2,
@@ -12428,7 +13048,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-10-29T18:58:11.643Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00690322:92feaa65339b8b84e7f513bc6647df3f:arc614x376:w915:us1.jpg",
     "tags": [
       "Niger",
@@ -12868,7 +13488,7 @@
     "sourceHome": "https://www.airinfoagadez.com",
     "category": "Actualités régionales",
     "publishedAt": "2026-10-29T13:06:39.682Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/10/FB_IMG_1792008756308-80x60.jpg",
     "tags": [
       "Niger",
@@ -12888,7 +13508,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-10-29T13:06:39.682Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00660790:31c3b799d93fc32e89804bf0300237d4:arc614x376:w1200.jpg",
     "tags": [
       "Niger",
@@ -13308,7 +13928,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-10-29T06:00:12.249Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00690322:92feaa65339b8b84e7f513bc6647df3f:arc614x376:w1200.jpg",
     "tags": [
       "Niger",
@@ -15168,7 +15788,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-10-27T18:22:16.026Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2026/10/ccr-niger-1-360x240.jpeg",
     "tags": [
       "Niger",
@@ -15188,7 +15808,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-10-27T18:22:16.026Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2025/10/Image1a-720x480.jpg",
     "tags": [
       "Niger",
@@ -15208,7 +15828,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-10-27T18:22:16.026Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2021/11/Formation-Dosso-Une-720x480.jpg",
     "tags": [
       "Niger",
@@ -15608,7 +16228,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-10-27T12:44:15.272Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2024/08/mosque-agadez-360x240.jpg",
     "tags": [
       "Niger",
@@ -15628,7 +16248,7 @@
     "sourceHome": "https://www.nigerinter.com",
     "category": "Actualités",
     "publishedAt": "2026-10-27T12:44:15.272Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://nigerinter.com/wp-content/uploads/2023/03/unfpa-Une-rsz-360x240.jpg",
     "tags": [
       "Niger",
@@ -15648,7 +16268,7 @@
     "sourceHome": "https://www.wfp.org/countries/niger",
     "category": "Sécurité alimentaire",
     "publishedAt": "2026-10-27T12:44:15.272Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.wfp.org/sites/default/files/styles/open_graph_image/public/images/WFP-emergency-preparedness-and-response.jpg?itok=_mL_M5eh",
     "tags": [
       "Niger",
@@ -15668,7 +16288,7 @@
     "sourceHome": "https://allafrica.com/niger",
     "category": "Actualités internationales",
     "publishedAt": "2026-10-27T12:44:15.272Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00660790:31c3b799d93fc32e89804bf0300237d4:arc614x376:w1200.jpg",
     "tags": [
       "Niger",
@@ -16168,7 +16788,7 @@
     "sourceHome": "https://www.airinfoagadez.com",
     "category": "Actualités régionales",
     "publishedAt": "2026-10-27T06:43:00.522Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://airinfoagadez.com/wp-content/uploads/2026/10/IMG-20261015-WA0050.jpg",
     "tags": [
       "Niger",
@@ -16588,7 +17208,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-10-26T21:54:08.588Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://niger.iom.int/sites/g/files/tmzbdl1221/files/styles/social_media/public/press_release/media/2026-10/dsc00606-ok.jpg?h=4efc6d43&itok=pJAhFCE6",
     "tags": [
       "Niger",
@@ -16828,7 +17448,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/standard_banner/public/_DSF7946_2.jpg.webp?itok=qmqGYFGK",
     "tags": [
       "Niger",
@@ -16848,7 +17468,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/large/public/063A5481.webp?itok=chXPUHvR",
     "tags": [
       "Niger",
@@ -16868,7 +17488,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/large/public/OOOO.webp?itok=n31pSo1d",
     "tags": [
       "Niger",
@@ -16888,7 +17508,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/large/public/c10e2803-f38b-4880-bbfb-f3d3b2356d3b.webp?itok=Jvcw6J89",
     "tags": [
       "Niger",
@@ -16908,7 +17528,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/large/public/ILLUS_UNICEF_2_3.webp?itok=6zCf19G5",
     "tags": [
       "Niger",
@@ -16928,7 +17548,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/large/public/ZINDER%20PAPA_0.jpg.webp?itok=xcDA6z_r",
     "tags": [
       "Niger",
@@ -16948,7 +17568,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/standard_banner/public/_DSF7946_2.jpg.webp?itok=qmqGYFGK",
     "tags": [
       "Niger",
@@ -16968,7 +17588,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/standard_banner/public/_DSF7946_2.jpg.webp?itok=qmqGYFGK",
     "tags": [
       "Niger",
@@ -16988,7 +17608,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T17:34:23.343Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/niger/sites/unicef.org.niger/files/styles/standard_banner/public/_DSF7946_2.jpg.webp?itok=qmqGYFGK",
     "tags": [
       "Niger",
@@ -17528,7 +18148,7 @@
     "sourceHome": "https://www.unicef.org/niger",
     "category": "Enfance et santé",
     "publishedAt": "2026-10-26T11:26:09.028Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.unicef.org/wca/sites/unicef.org.wca/files/styles/open_graph_image/public/UN0487642.JPG.jpeg?itok=qPGUQ7fP",
     "tags": [
       "Niger",
@@ -18108,7 +18728,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-26T00:39:02.962Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18128,7 +18748,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-26T00:39:02.962Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.finances.gouv.ne/images/Moumouni-Boubacar-Saidou-2024.png",
     "tags": [
       "Niger",
@@ -18148,7 +18768,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-26T00:39:02.962Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18168,7 +18788,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-26T00:39:02.962Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18328,7 +18948,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18348,7 +18968,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18368,7 +18988,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18388,7 +19008,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18408,7 +19028,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18428,7 +19048,7 @@
     "sourceHome": "https://www.finances.gouv.ne",
     "category": "Économie",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -18448,7 +19068,7 @@
     "sourceHome": "https://www.fao.org",
     "category": "Agriculture",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "https://www.fao.org/media/images/homepagelibraries/interactive-stories/iywf2026.jpg?sfvrsn=ca8b7df9_2",
     "tags": [
       "Niger",
@@ -18468,7 +19088,7 @@
     "sourceHome": "https://niger.iom.int",
     "category": "Migration",
     "publishedAt": "2026-10-25T22:28:27.863Z",
-    "collectedAt": "2026-11-06T02:45:31.205Z",
+    "collectedAt": "2026-11-06T10:38:18.372Z",
     "imageUrl": "",
     "tags": [
       "Niger",
@@ -19370,626 +19990,6 @@
     "publishedAt": "2026-10-25T13:56:12.462Z",
     "collectedAt": "2026-10-25T13:56:12.462Z",
     "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3XH82Z__v1__HighRes__IranUsIsraelWar-1792926745.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-8eacf4a85da5",
-    "title": "Saudi Arabia says shrapnel from ballistic missile interception wounds 2",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Saudi Arabia says shrapnel from ballistic missile interception wounds 2. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5082715",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T13:56:12.462Z",
-    "collectedAt": "2026-10-25T13:56:12.462Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3XH82Z__v1__HighRes__IranUsIsraelWar-1792926745.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-6e2160b6bf25",
-    "title": "Yemeni forces lack military cohesion the Houthis possess",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Yemeni forces lack military cohesion the Houthis possess. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5082653",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T13:56:12.462Z",
-    "collectedAt": "2026-10-25T13:56:12.462Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3XH82Z__v1__HighRes__IranUsIsraelWar-1792926745.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-b4408bbccdd3",
-    "title": "Al Jazeera staff narrowly survive deadly Israeli strike on Gaza university",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Al Jazeera staff narrowly survive deadly Israeli strike on Gaza university. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5082627",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T13:56:12.462Z",
-    "collectedAt": "2026-10-25T13:56:12.462Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3XH82Z__v1__HighRes__IranUsIsraelWar-1792926745.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-df64fc2eb1ae",
-    "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T13:56:12.462Z",
-    "collectedAt": "2026-10-25T13:56:12.462Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac557ed-1791317997.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-25fa94be2ca3",
-    "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : UK PM Burnham says he wants to discuss a return to EU freedom of movement. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T13:56:12.462Z",
-    "collectedAt": "2026-10-25T13:56:12.462Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6addea51-1792928337.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-583e4eec52ff",
-    "title": "Revue de presse nigérienne du 19 au 25 octobre 2026 : pénurie d’essence, pétrole et dialogue CEDEAO-AES",
-    "summary": "Cette information a été repérée depuis Niger Diaspora. Elle concerne : Revue de presse nigérienne du 19 au 25 octobre 2026 : pénurie d’essence, pétrole et dialogue CEDEAO-AES. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Niger Diaspora",
-    "sourceUrl": "https://www.nigerdiaspora.net/route-sef-revue-de-presse/revue-de-presse-nigerienne-du-19-au-25-octobre-2026-penurie-dessence-petrole-et-dialogue-cedeao-aes",
-    "sourceHome": "https://www.nigerdiaspora.net",
-    "category": "Diaspora",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-28T08:08:15.667Z",
-    "imageUrl": "https://www.nigerdiaspora.net/media/yootheme/cache/4b/bonne-gouvernance-au-niger-ce-que-prevoit-le-prr-2025-2029-4be917e3.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Diaspora"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-50b65659fc47",
-    "title": "Ministère de la Défense : cérémonie d'au revoir au SG sortant, nommé ambassadeur au Nigeria",
-    "summary": "Cette information a été repérée depuis ActuNiger. Elle concerne : Ministère de la Défense : cérémonie d'au revoir au SG sortant, nommé ambassadeur au Nigeria. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "ActuNiger",
-    "sourceUrl": "https://www.actuniger.com/societe/22494-ministere-de-la-defense-ceremonie-dau-revoir-au-sg-sortant-nomme-ambassadeur-au-nigeria",
-    "sourceHome": "https://www.actuniger.com",
-    "category": "Sécurité",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-27T06:43:00.522Z",
-    "imageUrl": "https://www.actuniger.com/cache/thumbs/d3255a9f34b5cea0b5ca20c0b75dff06.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Sécurité"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-a3c8cc87ae8b",
-    "title": "Régulation des médias : l'ONC renforce ses échanges avec l'Autorité nationale indépendante de régulation de l'audiovisuel algérienne (ANIRA)",
-    "summary": "Cette information a été repérée depuis ActuNiger. Elle concerne : Régulation des médias : l'ONC renforce ses échanges avec l'Autorité nationale indépendante de régulation de l'audiovisuel algérienne (ANIRA). Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "ActuNiger",
-    "sourceUrl": "https://www.actuniger.com/societe/22492-regulation-des-medias-lonc-renforce-ses-echanges-avec-lautorite-nationale-independante-de-regulation-de-laudiovisuel-algerienne-anira",
-    "sourceHome": "https://www.actuniger.com",
-    "category": "Actualités",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-26T21:54:08.588Z",
-    "imageUrl": "https://www.actuniger.com/cache/thumbs/f07db72356dafa05fea2850225ca6bee.jpg",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-50004eaacfd4",
-    "title": "Serbia votes in election pitting longtime leader against student movement",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Serbia votes in election pitting longtime leader against student movement. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T13:56:12.462Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26295569663365-1792897665.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-5996f5318eff",
-    "title": "Saudi Arabia downs missile over Riyadh; Houthis warn airports unsafe",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Saudi Arabia downs missile over Riyadh; Houthis warn airports unsafe. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T162722Z_2088143413_RC2Q9OARGLA5_RTRMADP_3_IRAN-CRISIS-YEMEN-1792912096.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-081490abfa44",
-    "title": "Riyadh reopens international airport as Houthi attacks persist",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Riyadh reopens international airport as Houthi attacks persist. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5082050",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T162722Z_2088143413_RC2Q9OARGLA5_RTRMADP_3_IRAN-CRISIS-YEMEN-1792912096.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-a2852a6289f0",
-    "title": "German suspects arrested after allegedly photographing Israel’s Damon Prison",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : German suspects arrested after allegedly photographing Israel’s Damon Prison. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5082022",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T162722Z_2088143413_RC2Q9OARGLA5_RTRMADP_3_IRAN-CRISIS-YEMEN-1792912096.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-d405f147c53e",
-    "title": "Saudi Arabia intercepts 10 ballistic missiles launched by Houthis",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Saudi Arabia intercepts 10 ballistic missiles launched by Houthis. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5082056",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T162722Z_2088143413_RC2Q9OARGLA5_RTRMADP_3_IRAN-CRISIS-YEMEN-1792912096.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-d36fed477e48",
-    "title": "Battle for Jabal Sabr mountain range key to controlling Yemen’s Taiz",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Battle for Jabal Sabr mountain range key to controlling Yemen’s Taiz. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081954",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T162722Z_2088143413_RC2Q9OARGLA5_RTRMADP_3_IRAN-CRISIS-YEMEN-1792912096.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-cae881b626a2",
-    "title": "Brazil’s Lula and Bolsonaro face off in second-round presidential election",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Brazil’s Lula and Bolsonaro face off in second-round presidential election. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adcef43a470-1792864067.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-604144f4d7d2",
-    "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Israeli forces turn Hebron homes into military posts amid lockdown. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-24T074418Z_742648547_RC2I9OARH8PO_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK-1792920753.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-fe4e363d1a5c",
-    "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Bots, deepfakes and surveillance: Israel’s election goes to war online. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26285576369678-1792917389.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-35f53844c5db",
-    "title": "‘Unnecessary’ Iran war, corruption: Takeaways from Obama’s midterm speeches",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : ‘Unnecessary’ Iran war, corruption: Takeaways from Obama’s midterm speeches. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T09:40:05.139Z",
-    "collectedAt": "2026-10-25T09:40:05.139Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26297857014939-1792919723.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-5ed12f1d69f4",
-    "title": "Russia denies evacuating diplomatic staff, nuclear specialists from Iran",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Russia denies evacuating diplomatic staff, nuclear specialists from Iran. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081581",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T023520Z_352137603_RC2LDNAX34MI_RTRMADP_3_IRAN-CRISIS-SHIPPING-1790032049.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-5e371ed09bf2",
-    "title": "Senior Iranian official threatens Israel with swift retaliation over ‘miscalculation’",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Senior Iranian official threatens Israel with swift retaliation over ‘miscalculation’. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081539",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T023520Z_352137603_RC2LDNAX34MI_RTRMADP_3_IRAN-CRISIS-SHIPPING-1790032049.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-d34f7414f456",
-    "title": "Photos: Antigovernment protesters rally in Tel Aviv",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Photos: Antigovernment protesters rally in Tel Aviv. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081477",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T023520Z_352137603_RC2LDNAX34MI_RTRMADP_3_IRAN-CRISIS-SHIPPING-1790032049.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-e12b45a2c9b8",
-    "title": "US senator warns Trump’s Iran campaign becoming ‘our next forever war’",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : US senator warns Trump’s Iran campaign becoming ‘our next forever war’. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081373",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T023520Z_352137603_RC2LDNAX34MI_RTRMADP_3_IRAN-CRISIS-SHIPPING-1790032049.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-697bbedfee43",
-    "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6add3ebf11b8-1792884415.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-18dd3e23cf1f",
-    "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6add72f0d5a6d-1792897776.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-4485f49d7cf6",
-    "title": "‘A match like no other’: El Clasico awaits a Yamal vs Mbappe showdown",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : ‘A match like no other’: El Clasico awaits a Yamal vs Mbappe showdown. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T04:49:55.748Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261013__D37G7A9__v1__HighRes__FblEurC1GalatasarayBarcelona-1791973844.jpg?resize=1200%2C630",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-44f0180cd665",
-    "title": "Trump says US considers possible Sunday attack on Iran or to reach deal",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Trump says US considers possible Sunday attack on Iran or to reach deal. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T00:11:32.582Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T023520Z_352137603_RC2LDNAX34MI_RTRMADP_3_IRAN-CRISIS-SHIPPING-1790032049.jpg?resize=770%2C513&quality=80",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-aeda2a7c7de8",
-    "title": "WATCH: Severe hunger stalks people in Gaza as bakeries close down",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : WATCH: Severe hunger stalks people in Gaza as bakeries close down. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081270",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T00:11:32.582Z",
-    "collectedAt": "2026-10-25T00:11:32.582Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261024__D4BY63U__v1__HighRes__UsPoliticsTrumpVote-1792880838.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-6396e4ff272f",
-    "title": "A recap of recent developments",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : A recap of recent developments. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?update=5081200",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T00:11:32.582Z",
-    "collectedAt": "2026-10-25T00:11:32.582Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261024__D4BY63U__v1__HighRes__UsPoliticsTrumpVote-1792880838.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-69c681cd2000",
-    "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T00:11:32.582Z",
-    "collectedAt": "2026-10-25T00:11:32.582Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6add0878e959-1792870520.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-0d55a0aba6f9",
-    "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Gunmen kill at least 10 people in eastern Nigeria, police say. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-25T00:11:32.582Z",
-    "collectedAt": "2026-10-25T00:11:32.582Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6add2796635cf-1792878486.jpg?resize=1920%2C1440",
-    "tags": [
-      "Niger",
-      "Niger",
-      "Actualités internationales"
-    ],
-    "region": "Niger",
-    "importance": 2,
-    "isSample": false
-  },
-  {
-    "id": "news-14d3b8c39f48",
-    "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-    "summary": "Cette information a été repérée depuis Al Jazeera Niger. Elle concerne : Iran blames US for deal failure, urges new try amid fear of new attacks. Consultez la source originale pour lire le contenu complet.",
-    "sourceName": "Al Jazeera Niger",
-    "sourceUrl": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks",
-    "sourceHome": "https://www.aljazeera.com",
-    "category": "Actualités internationales",
-    "publishedAt": "2026-10-24T21:56:20.173Z",
-    "collectedAt": "2026-10-25T04:49:55.748Z",
-    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26271650639081-1791496832.jpg?resize=770%2C513&quality=80",
     "tags": [
       "Niger",
       "Niger",
